@@ -1,0 +1,4 @@
+# Optional modern catalogue overrides. Missing species costs mean unavailable.
+Header:
+  Type: STYLIST_DB
+  Version: 2

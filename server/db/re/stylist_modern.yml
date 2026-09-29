@@ -1,0 +1,6687 @@
+# Generated catalogue: 667 clothing colors, 5 hair colors, 42 hairstyles.
+# Matching client tables and original attribution are included in this package.
+Header:
+  Type: STYLIST_DB
+  Version: 2
+
+Body:
+  - Look: Hair_Color
+    Options:
+      - Index: -1
+        Value: 0
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 1
+        Value: 1
+        CostsHuman:
+          Price: 100000
+        CostsDoram:
+          Price: 100000
+      - Index: 2
+        Value: 2
+        CostsHuman:
+          Price: 100000
+        CostsDoram:
+          Price: 100000
+      - Index: 3
+        Value: 3
+        CostsHuman:
+          Price: 100000
+        CostsDoram:
+          Price: 100000
+      - Index: 4
+        Value: 4
+        CostsHuman:
+          Price: 100000
+        CostsDoram:
+          Price: 100000
+      - Index: 5
+        Value: 5
+        CostsHuman:
+          Price: 100000
+        CostsDoram:
+          Price: 100000
+  - Look: Hair
+    Options:
+      - Index: 1
+        Value: 1
+        ColorableDoram: true
+        CostsHuman:
+          Price: 100000
+        CostsDoram:
+          Price: 100000
+      - Index: 2
+        Value: 2
+        ColorableDoram: false
+        CostsHuman:
+          Price: 100000
+        CostsDoram:
+          Price: 100000
+      - Index: 3
+        Value: 3
+        ColorableDoram: true
+        CostsHuman:
+          Price: 100000
+        CostsDoram:
+          Price: 100000
+      - Index: 4
+        Value: 4
+        ColorableDoram: true
+        CostsHuman:
+          Price: 100000
+        CostsDoram:
+          Price: 100000
+      - Index: 5
+        Value: 5
+        ColorableDoram: false
+        CostsHuman:
+          Price: 100000
+        CostsDoram:
+          Price: 100000
+      - Index: 6
+        Value: 6
+        ColorableDoram: false
+        CostsHuman:
+          Price: 100000
+        CostsDoram:
+          Price: 100000
+      - Index: 7
+        Value: 7
+        ColorableDoram: false
+        CostsHuman:
+          Price: 100000
+        CostsDoram:
+          Price: 0
+          RequiredItem: J_Shop_Coupon2
+          RequiredItemBox: J_Shop_Coupon2
+      - Index: 8
+        Value: 8
+        ColorableDoram: false
+        CostsHuman:
+          Price: 100000
+        CostsDoram:
+          Price: 0
+          RequiredItem: J_Shop_Coupon2
+          RequiredItemBox: J_Shop_Coupon2
+      - Index: 9
+        Value: 9
+        ColorableDoram: false
+        CostsHuman:
+          Price: 100000
+        CostsDoram:
+          Price: 0
+          RequiredItem: J_Shop_Coupon2
+          RequiredItemBox: J_Shop_Coupon2
+      - Index: 10
+        Value: 10
+        ColorableDoram: false
+        CostsHuman:
+          Price: 100000
+        CostsDoram:
+          Price: 0
+          RequiredItem: J_Shop_Coupon2
+          RequiredItemBox: J_Shop_Coupon2
+      - Index: 11
+        Value: 11
+        CostsHuman:
+          Price: 100000
+      - Index: 12
+        Value: 12
+        CostsHuman:
+          Price: 100000
+      - Index: 13
+        Value: 13
+        CostsHuman:
+          Price: 100000
+      - Index: 14
+        Value: 14
+        CostsHuman:
+          Price: 100000
+      - Index: 15
+        Value: 15
+        CostsHuman:
+          Price: 100000
+      - Index: 16
+        Value: 16
+        CostsHuman:
+          Price: 100000
+      - Index: 17
+        Value: 17
+        CostsHuman:
+          Price: 100000
+      - Index: 18
+        Value: 18
+        CostsHuman:
+          Price: 100000
+      - Index: 19
+        Value: 19
+        CostsHuman:
+          Price: 100000
+      - Index: 20
+        Value: 20
+        CostsHuman:
+          Price: 100000
+      - Index: 21
+        Value: 21
+        CostsHuman:
+          Price: 100000
+      - Index: 22
+        Value: 22
+        CostsHuman:
+          Price: 100000
+      - Index: 23
+        Value: 23
+        CostsHuman:
+          Price: 100000
+      - Index: 24
+        Value: 24
+        CostsHuman:
+          Price: 0
+          RequiredItem: New_Style_Coupon
+          RequiredItemBox: C_New_Style_Box
+      - Index: 25
+        Value: 25
+        CostsHuman:
+          Price: 0
+          RequiredItem: New_Style_Coupon
+          RequiredItemBox: C_New_Style_Box
+      - Index: 26
+        Value: 26
+        CostsHuman:
+          Price: 0
+          RequiredItem: New_Style_Coupon
+          RequiredItemBox: C_New_Style_Box
+      - Index: 27
+        Value: 27
+        CostsHuman:
+          Price: 0
+          RequiredItem: New_Style_Coupon
+          RequiredItemBox: C_New_Style_Box
+      - Index: 28
+        Value: 28
+        CostsHuman:
+          Price: 0
+          RequiredItem: J_Shop_Coupon
+          RequiredItemBox: J_Shop_Coupon_Box
+      - Index: 29
+        Value: 29
+        CostsHuman:
+          Price: 0
+          RequiredItem: J_Shop_Coupon
+          RequiredItemBox: J_Shop_Coupon_Box
+      - Index: 30
+        Value: 30
+        CostsHuman:
+          Price: 0
+          RequiredItem: J_Shop_Coupon2
+          RequiredItemBox: J_Shop_Coupon2
+      - Index: 31
+        Value: 31
+        CostsHuman:
+          Price: 0
+          RequiredItem: J_Shop_Coupon2
+          RequiredItemBox: J_Shop_Coupon2
+      - Index: 32
+        Value: 32
+        CostsHuman:
+          Price: 100000
+      - Index: 33
+        Value: 33
+        CostsHuman:
+          Price: 3000000
+      - Index: 34
+        Value: 34
+        CostsHuman:
+          Price: 3000000
+      - Index: 35
+        Value: 35
+        CostsHuman:
+          Price: 3000000
+      - Index: 36
+        Value: 36
+        CostsHuman:
+          Price: 3000000
+      - Index: 37
+        Value: 37
+        CostsHuman:
+          Price: 3000000
+      - Index: 38
+        Value: 38
+        CostsHuman:
+          Price: 3000000
+      - Index: 39
+        Value: 39
+        CostsHuman:
+          Price: 3000000
+      - Index: 40
+        Value: 40
+        CostsHuman:
+          Price: 3000000
+      - Index: 41
+        Value: 41
+        CostsHuman:
+          Price: 3000000
+      - Index: 42
+        Value: 42
+        CostsHuman:
+          Price: 3000000
+  - Look: Clothes_Color
+    Options:
+      - Index: -1
+        Value: 0
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 1
+        Value: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Clothing_Dye_Coupon2
+          RequiredItemBox: CCloth_Dye_Coupon2_Box
+        CostsDoram:
+          Price: 0
+          RequiredItem: Clothing_Dye_Coupon2
+          RequiredItemBox: CCloth_Dye_Coupon2_Box
+      - Index: 2
+        Value: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Clothing_Dye_Coupon
+          RequiredItemBox: CCloth_Dye_Coupon_Box
+        CostsDoram:
+          Price: 0
+          RequiredItem: Clothing_Dye_Coupon
+          RequiredItemBox: CCloth_Dye_Coupon_Box
+      - Index: 3
+        Value: 3
+        CostsHuman:
+          Price: 0
+          RequiredItem: Clothing_Dye_Coupon
+          RequiredItemBox: CCloth_Dye_Coupon_Box
+        CostsDoram:
+          Price: 0
+          RequiredItem: Clothing_Dye_Coupon
+          RequiredItemBox: CCloth_Dye_Coupon_Box
+      - Index: 4
+        Value: 4
+        CostsHuman:
+          Price: 0
+          RequiredItem: Clothing_Dye_Coupon
+          RequiredItemBox: CCloth_Dye_Coupon_Box
+        CostsDoram:
+          Price: 0
+          RequiredItem: Clothing_Dye_Coupon
+          RequiredItemBox: CCloth_Dye_Coupon_Box
+      - Index: 5
+        Value: 5
+        CostsHuman:
+          Price: 0
+          RequiredItem: Clothing_Dye_Coupon
+          RequiredItemBox: CCloth_Dye_Coupon_Box
+        CostsDoram:
+          Price: 0
+          RequiredItem: Clothing_Dye_Coupon
+          RequiredItemBox: CCloth_Dye_Coupon_Box
+      - Index: 6
+        Value: 6
+        CostsHuman:
+          Price: 0
+          RequiredItem: Clothing_Dye_Coupon
+          RequiredItemBox: CCloth_Dye_Coupon_Box
+        CostsDoram:
+          Price: 0
+          RequiredItem: Clothing_Dye_Coupon
+          RequiredItemBox: CCloth_Dye_Coupon_Box
+      - Index: 7
+        Value: 7
+        CostsHuman:
+          Price: 0
+          RequiredItem: Clothing_Dye_Coupon
+          RequiredItemBox: CCloth_Dye_Coupon_Box
+        CostsDoram:
+          Price: 0
+          RequiredItem: Clothing_Dye_Coupon
+          RequiredItemBox: CCloth_Dye_Coupon_Box
+      - Index: 8
+        Value: 1
+        CostsHuman:
+          Price: 100000
+      - Index: 9
+        Value: 8
+        CostsHuman:
+          Price: 100000
+      - Index: 10
+        Value: 9
+        CostsHuman:
+          Price: 100000
+      - Index: 11
+        Value: 10
+        CostsHuman:
+          Price: 100000
+      - Index: 12
+        Value: 11
+        CostsHuman:
+          Price: 100000
+      - Index: 13
+        Value: 12
+        CostsHuman:
+          Price: 100000
+      - Index: 14
+        Value: 13
+        CostsHuman:
+          Price: 100000
+      - Index: 15
+        Value: 14
+        CostsHuman:
+          Price: 100000
+      - Index: 16
+        Value: 15
+        CostsHuman:
+          Price: 100000
+      - Index: 17
+        Value: 16
+        CostsHuman:
+          Price: 100000
+      - Index: 18
+        Value: 17
+        CostsHuman:
+          Price: 100000
+      - Index: 19
+        Value: 18
+        CostsHuman:
+          Price: 100000
+      - Index: 20
+        Value: 19
+        CostsHuman:
+          Price: 100000
+      - Index: 21
+        Value: 20
+        CostsHuman:
+          Price: 100000
+      - Index: 22
+        Value: 21
+        CostsHuman:
+          Price: 100000
+      - Index: 23
+        Value: 22
+        CostsHuman:
+          Price: 100000
+      - Index: 24
+        Value: 23
+        CostsHuman:
+          Price: 100000
+      - Index: 25
+        Value: 24
+        CostsHuman:
+          Price: 100000
+      - Index: 26
+        Value: 25
+        CostsHuman:
+          Price: 100000
+      - Index: 27
+        Value: 26
+        CostsHuman:
+          Price: 100000
+      - Index: 28
+        Value: 27
+        CostsHuman:
+          Price: 100000
+      - Index: 29
+        Value: 28
+        CostsHuman:
+          Price: 100000
+      - Index: 30
+        Value: 29
+        CostsHuman:
+          Price: 100000
+      - Index: 31
+        Value: 30
+        CostsHuman:
+          Price: 100000
+      - Index: 32
+        Value: 31
+        CostsHuman:
+          Price: 100000
+      - Index: 33
+        Value: 32
+        CostsHuman:
+          Price: 100000
+      - Index: 34
+        Value: 33
+        CostsHuman:
+          Price: 100000
+      - Index: 35
+        Value: 34
+        CostsHuman:
+          Price: 100000
+      - Index: 36
+        Value: 35
+        CostsHuman:
+          Price: 100000
+      - Index: 37
+        Value: 36
+        CostsHuman:
+          Price: 100000
+      - Index: 38
+        Value: 37
+        CostsHuman:
+          Price: 100000
+      - Index: 39
+        Value: 38
+        CostsHuman:
+          Price: 100000
+      - Index: 40
+        Value: 39
+        CostsHuman:
+          Price: 100000
+      - Index: 41
+        Value: 40
+        CostsHuman:
+          Price: 100000
+      - Index: 42
+        Value: 41
+        CostsHuman:
+          Price: 100000
+      - Index: 43
+        Value: 42
+        CostsHuman:
+          Price: 100000
+      - Index: 44
+        Value: 43
+        CostsHuman:
+          Price: 100000
+      - Index: 45
+        Value: 44
+        CostsHuman:
+          Price: 100000
+      - Index: 46
+        Value: 45
+        CostsHuman:
+          Price: 100000
+      - Index: 47
+        Value: 46
+        CostsHuman:
+          Price: 100000
+      - Index: 48
+        Value: 47
+        CostsHuman:
+          Price: 100000
+      - Index: 49
+        Value: 48
+        CostsHuman:
+          Price: 100000
+      - Index: 50
+        Value: 49
+        CostsHuman:
+          Price: 100000
+      - Index: 51
+        Value: 50
+        CostsHuman:
+          Price: 100000
+      - Index: 52
+        Value: 51
+        CostsHuman:
+          Price: 100000
+      - Index: 53
+        Value: 52
+        CostsHuman:
+          Price: 100000
+      - Index: 54
+        Value: 53
+        CostsHuman:
+          Price: 100000
+      - Index: 55
+        Value: 54
+        CostsHuman:
+          Price: 100000
+      - Index: 56
+        Value: 55
+        CostsHuman:
+          Price: 100000
+      - Index: 57
+        Value: 56
+        CostsHuman:
+          Price: 100000
+      - Index: 58
+        Value: 57
+        CostsHuman:
+          Price: 100000
+      - Index: 59
+        Value: 58
+        CostsHuman:
+          Price: 100000
+      - Index: 60
+        Value: 59
+        CostsHuman:
+          Price: 100000
+      - Index: 61
+        Value: 60
+        CostsHuman:
+          Price: 100000
+      - Index: 62
+        Value: 61
+        CostsHuman:
+          Price: 100000
+      - Index: 63
+        Value: 62
+        CostsHuman:
+          Price: 100000
+      - Index: 64
+        Value: 63
+        CostsHuman:
+          Price: 100000
+      - Index: 65
+        Value: 64
+        CostsHuman:
+          Price: 100000
+      - Index: 66
+        Value: 65
+        CostsHuman:
+          Price: 100000
+      - Index: 67
+        Value: 66
+        CostsHuman:
+          Price: 100000
+      - Index: 68
+        Value: 67
+        CostsHuman:
+          Price: 100000
+      - Index: 69
+        Value: 68
+        CostsHuman:
+          Price: 100000
+      - Index: 70
+        Value: 69
+        CostsHuman:
+          Price: 100000
+      - Index: 71
+        Value: 70
+        CostsHuman:
+          Price: 100000
+      - Index: 72
+        Value: 71
+        CostsHuman:
+          Price: 100000
+      - Index: 73
+        Value: 72
+        CostsHuman:
+          Price: 100000
+      - Index: 74
+        Value: 73
+        CostsHuman:
+          Price: 100000
+      - Index: 75
+        Value: 74
+        CostsHuman:
+          Price: 100000
+      - Index: 76
+        Value: 75
+        CostsHuman:
+          Price: 100000
+      - Index: 77
+        Value: 76
+        CostsHuman:
+          Price: 100000
+      - Index: 78
+        Value: 77
+        CostsHuman:
+          Price: 100000
+      - Index: 79
+        Value: 78
+        CostsHuman:
+          Price: 100000
+      - Index: 80
+        Value: 79
+        CostsHuman:
+          Price: 100000
+      - Index: 81
+        Value: 80
+        CostsHuman:
+          Price: 100000
+      - Index: 82
+        Value: 81
+        CostsHuman:
+          Price: 100000
+      - Index: 83
+        Value: 82
+        CostsHuman:
+          Price: 100000
+      - Index: 84
+        Value: 83
+        CostsHuman:
+          Price: 100000
+      - Index: 85
+        Value: 84
+        CostsHuman:
+          Price: 100000
+      - Index: 86
+        Value: 85
+        CostsHuman:
+          Price: 100000
+      - Index: 87
+        Value: 86
+        CostsHuman:
+          Price: 100000
+      - Index: 88
+        Value: 87
+        CostsHuman:
+          Price: 100000
+      - Index: 89
+        Value: 88
+        CostsHuman:
+          Price: 100000
+      - Index: 90
+        Value: 89
+        CostsHuman:
+          Price: 100000
+      - Index: 91
+        Value: 90
+        CostsHuman:
+          Price: 100000
+      - Index: 92
+        Value: 91
+        CostsHuman:
+          Price: 100000
+      - Index: 93
+        Value: 92
+        CostsHuman:
+          Price: 100000
+      - Index: 94
+        Value: 93
+        CostsHuman:
+          Price: 100000
+      - Index: 95
+        Value: 94
+        CostsHuman:
+          Price: 100000
+      - Index: 96
+        Value: 95
+        CostsHuman:
+          Price: 100000
+      - Index: 97
+        Value: 96
+        CostsHuman:
+          Price: 100000
+      - Index: 98
+        Value: 97
+        CostsHuman:
+          Price: 100000
+      - Index: 99
+        Value: 98
+        CostsHuman:
+          Price: 100000
+      - Index: 100
+        Value: 99
+        CostsHuman:
+          Price: 100000
+      - Index: 101
+        Value: 100
+        CostsHuman:
+          Price: 100000
+      - Index: 102
+        Value: 101
+        CostsHuman:
+          Price: 100000
+      - Index: 103
+        Value: 102
+        CostsHuman:
+          Price: 100000
+      - Index: 104
+        Value: 103
+        CostsHuman:
+          Price: 100000
+      - Index: 105
+        Value: 104
+        CostsHuman:
+          Price: 100000
+      - Index: 106
+        Value: 105
+        CostsHuman:
+          Price: 100000
+      - Index: 107
+        Value: 106
+        CostsHuman:
+          Price: 100000
+      - Index: 108
+        Value: 107
+        CostsHuman:
+          Price: 100000
+      - Index: 109
+        Value: 108
+        CostsHuman:
+          Price: 100000
+      - Index: 110
+        Value: 109
+        CostsHuman:
+          Price: 100000
+      - Index: 111
+        Value: 110
+        CostsHuman:
+          Price: 100000
+      - Index: 112
+        Value: 111
+        CostsHuman:
+          Price: 100000
+      - Index: 113
+        Value: 112
+        CostsHuman:
+          Price: 100000
+      - Index: 114
+        Value: 113
+        CostsHuman:
+          Price: 100000
+      - Index: 115
+        Value: 114
+        CostsHuman:
+          Price: 100000
+      - Index: 116
+        Value: 115
+        CostsHuman:
+          Price: 100000
+      - Index: 117
+        Value: 116
+        CostsHuman:
+          Price: 100000
+      - Index: 118
+        Value: 117
+        CostsHuman:
+          Price: 100000
+      - Index: 119
+        Value: 118
+        CostsHuman:
+          Price: 100000
+      - Index: 120
+        Value: 119
+        CostsHuman:
+          Price: 100000
+      - Index: 121
+        Value: 120
+        CostsHuman:
+          Price: 100000
+      - Index: 122
+        Value: 121
+        CostsHuman:
+          Price: 100000
+      - Index: 123
+        Value: 122
+        CostsHuman:
+          Price: 100000
+      - Index: 124
+        Value: 123
+        CostsHuman:
+          Price: 100000
+      - Index: 125
+        Value: 124
+        CostsHuman:
+          Price: 100000
+      - Index: 126
+        Value: 125
+        CostsHuman:
+          Price: 100000
+      - Index: 127
+        Value: 126
+        CostsHuman:
+          Price: 100000
+      - Index: 128
+        Value: 127
+        CostsHuman:
+          Price: 100000
+      - Index: 129
+        Value: 128
+        CostsHuman:
+          Price: 100000
+      - Index: 130
+        Value: 129
+        CostsHuman:
+          Price: 100000
+      - Index: 131
+        Value: 130
+        CostsHuman:
+          Price: 100000
+      - Index: 132
+        Value: 131
+        CostsHuman:
+          Price: 100000
+      - Index: 133
+        Value: 132
+        CostsHuman:
+          Price: 100000
+      - Index: 134
+        Value: 133
+        CostsHuman:
+          Price: 100000
+      - Index: 135
+        Value: 134
+        CostsHuman:
+          Price: 100000
+      - Index: 136
+        Value: 135
+        CostsHuman:
+          Price: 100000
+      - Index: 137
+        Value: 136
+        CostsHuman:
+          Price: 100000
+      - Index: 138
+        Value: 137
+        CostsHuman:
+          Price: 100000
+      - Index: 139
+        Value: 138
+        CostsHuman:
+          Price: 100000
+      - Index: 140
+        Value: 139
+        CostsHuman:
+          Price: 100000
+      - Index: 141
+        Value: 140
+        CostsHuman:
+          Price: 100000
+      - Index: 142
+        Value: 141
+        CostsHuman:
+          Price: 100000
+      - Index: 143
+        Value: 142
+        CostsHuman:
+          Price: 100000
+      - Index: 144
+        Value: 143
+        CostsHuman:
+          Price: 100000
+      - Index: 145
+        Value: 144
+        CostsHuman:
+          Price: 100000
+      - Index: 146
+        Value: 145
+        CostsHuman:
+          Price: 100000
+      - Index: 147
+        Value: 146
+        CostsHuman:
+          Price: 100000
+      - Index: 148
+        Value: 147
+        CostsHuman:
+          Price: 100000
+      - Index: 149
+        Value: 148
+        CostsHuman:
+          Price: 100000
+      - Index: 150
+        Value: 149
+        CostsHuman:
+          Price: 100000
+      - Index: 151
+        Value: 150
+        CostsHuman:
+          Price: 100000
+      - Index: 152
+        Value: 151
+        CostsHuman:
+          Price: 100000
+      - Index: 153
+        Value: 152
+        CostsHuman:
+          Price: 100000
+      - Index: 154
+        Value: 153
+        CostsHuman:
+          Price: 100000
+      - Index: 155
+        Value: 154
+        CostsHuman:
+          Price: 100000
+      - Index: 156
+        Value: 155
+        CostsHuman:
+          Price: 100000
+      - Index: 157
+        Value: 156
+        CostsHuman:
+          Price: 100000
+      - Index: 158
+        Value: 157
+        CostsHuman:
+          Price: 100000
+      - Index: 159
+        Value: 158
+        CostsHuman:
+          Price: 100000
+      - Index: 160
+        Value: 159
+        CostsHuman:
+          Price: 100000
+      - Index: 161
+        Value: 160
+        CostsHuman:
+          Price: 100000
+      - Index: 162
+        Value: 161
+        CostsHuman:
+          Price: 100000
+      - Index: 163
+        Value: 162
+        CostsHuman:
+          Price: 100000
+      - Index: 164
+        Value: 163
+        CostsHuman:
+          Price: 100000
+      - Index: 165
+        Value: 164
+        CostsHuman:
+          Price: 100000
+      - Index: 166
+        Value: 165
+        CostsHuman:
+          Price: 100000
+      - Index: 167
+        Value: 166
+        CostsHuman:
+          Price: 100000
+      - Index: 168
+        Value: 167
+        CostsHuman:
+          Price: 100000
+      - Index: 169
+        Value: 168
+        CostsHuman:
+          Price: 100000
+      - Index: 170
+        Value: 169
+        CostsHuman:
+          Price: 100000
+      - Index: 171
+        Value: 170
+        CostsHuman:
+          Price: 100000
+      - Index: 172
+        Value: 171
+        CostsHuman:
+          Price: 100000
+      - Index: 173
+        Value: 172
+        CostsHuman:
+          Price: 100000
+      - Index: 174
+        Value: 173
+        CostsHuman:
+          Price: 100000
+      - Index: 175
+        Value: 174
+        CostsHuman:
+          Price: 100000
+      - Index: 176
+        Value: 175
+        CostsHuman:
+          Price: 100000
+      - Index: 177
+        Value: 176
+        CostsHuman:
+          Price: 100000
+      - Index: 178
+        Value: 177
+        CostsHuman:
+          Price: 100000
+      - Index: 179
+        Value: 178
+        CostsHuman:
+          Price: 100000
+      - Index: 180
+        Value: 179
+        CostsHuman:
+          Price: 100000
+      - Index: 181
+        Value: 180
+        CostsHuman:
+          Price: 100000
+      - Index: 182
+        Value: 181
+        CostsHuman:
+          Price: 100000
+      - Index: 183
+        Value: 182
+        CostsHuman:
+          Price: 100000
+      - Index: 184
+        Value: 183
+        CostsHuman:
+          Price: 100000
+      - Index: 185
+        Value: 184
+        CostsHuman:
+          Price: 100000
+      - Index: 186
+        Value: 185
+        CostsHuman:
+          Price: 100000
+      - Index: 187
+        Value: 186
+        CostsHuman:
+          Price: 100000
+      - Index: 188
+        Value: 187
+        CostsHuman:
+          Price: 100000
+      - Index: 189
+        Value: 188
+        CostsHuman:
+          Price: 100000
+      - Index: 190
+        Value: 189
+        CostsHuman:
+          Price: 100000
+      - Index: 191
+        Value: 190
+        CostsHuman:
+          Price: 100000
+      - Index: 192
+        Value: 191
+        CostsHuman:
+          Price: 100000
+      - Index: 193
+        Value: 192
+        CostsHuman:
+          Price: 100000
+      - Index: 194
+        Value: 193
+        CostsHuman:
+          Price: 100000
+      - Index: 195
+        Value: 194
+        CostsHuman:
+          Price: 100000
+      - Index: 196
+        Value: 195
+        CostsHuman:
+          Price: 100000
+      - Index: 197
+        Value: 196
+        CostsHuman:
+          Price: 100000
+      - Index: 198
+        Value: 197
+        CostsHuman:
+          Price: 100000
+      - Index: 199
+        Value: 198
+        CostsHuman:
+          Price: 100000
+      - Index: 200
+        Value: 199
+        CostsHuman:
+          Price: 100000
+      - Index: 201
+        Value: 200
+        CostsHuman:
+          Price: 100000
+      - Index: 202
+        Value: 201
+        CostsHuman:
+          Price: 100000
+      - Index: 203
+        Value: 202
+        CostsHuman:
+          Price: 100000
+      - Index: 204
+        Value: 203
+        CostsHuman:
+          Price: 100000
+      - Index: 205
+        Value: 204
+        CostsHuman:
+          Price: 100000
+      - Index: 206
+        Value: 205
+        CostsHuman:
+          Price: 100000
+      - Index: 207
+        Value: 206
+        CostsHuman:
+          Price: 100000
+      - Index: 208
+        Value: 207
+        CostsHuman:
+          Price: 100000
+      - Index: 209
+        Value: 208
+        CostsHuman:
+          Price: 100000
+      - Index: 210
+        Value: 209
+        CostsHuman:
+          Price: 100000
+      - Index: 211
+        Value: 210
+        CostsHuman:
+          Price: 100000
+      - Index: 212
+        Value: 211
+        CostsHuman:
+          Price: 100000
+      - Index: 213
+        Value: 212
+        CostsHuman:
+          Price: 100000
+      - Index: 214
+        Value: 213
+        CostsHuman:
+          Price: 100000
+      - Index: 215
+        Value: 214
+        CostsHuman:
+          Price: 100000
+      - Index: 216
+        Value: 215
+        CostsHuman:
+          Price: 100000
+      - Index: 217
+        Value: 216
+        CostsHuman:
+          Price: 100000
+      - Index: 218
+        Value: 217
+        CostsHuman:
+          Price: 100000
+      - Index: 219
+        Value: 218
+        CostsHuman:
+          Price: 100000
+      - Index: 220
+        Value: 219
+        CostsHuman:
+          Price: 100000
+      - Index: 221
+        Value: 220
+        CostsHuman:
+          Price: 100000
+      - Index: 222
+        Value: 221
+        CostsHuman:
+          Price: 100000
+      - Index: 223
+        Value: 222
+        CostsHuman:
+          Price: 100000
+      - Index: 224
+        Value: 223
+        CostsHuman:
+          Price: 100000
+      - Index: 225
+        Value: 224
+        CostsHuman:
+          Price: 100000
+      - Index: 226
+        Value: 225
+        CostsHuman:
+          Price: 100000
+      - Index: 227
+        Value: 226
+        CostsHuman:
+          Price: 100000
+      - Index: 228
+        Value: 227
+        CostsHuman:
+          Price: 100000
+      - Index: 229
+        Value: 228
+        CostsHuman:
+          Price: 100000
+      - Index: 230
+        Value: 229
+        CostsHuman:
+          Price: 100000
+      - Index: 231
+        Value: 230
+        CostsHuman:
+          Price: 100000
+      - Index: 232
+        Value: 231
+        CostsHuman:
+          Price: 100000
+      - Index: 233
+        Value: 232
+        CostsHuman:
+          Price: 100000
+      - Index: 234
+        Value: 233
+        CostsHuman:
+          Price: 100000
+      - Index: 235
+        Value: 234
+        CostsHuman:
+          Price: 100000
+      - Index: 236
+        Value: 235
+        CostsHuman:
+          Price: 100000
+      - Index: 237
+        Value: 236
+        CostsHuman:
+          Price: 100000
+      - Index: 238
+        Value: 237
+        CostsHuman:
+          Price: 100000
+      - Index: 239
+        Value: 238
+        CostsHuman:
+          Price: 100000
+      - Index: 240
+        Value: 239
+        CostsHuman:
+          Price: 100000
+      - Index: 241
+        Value: 240
+        CostsHuman:
+          Price: 100000
+      - Index: 242
+        Value: 241
+        CostsHuman:
+          Price: 100000
+      - Index: 243
+        Value: 242
+        CostsHuman:
+          Price: 100000
+      - Index: 244
+        Value: 243
+        CostsHuman:
+          Price: 100000
+      - Index: 245
+        Value: 244
+        CostsHuman:
+          Price: 100000
+      - Index: 246
+        Value: 245
+        CostsHuman:
+          Price: 100000
+      - Index: 247
+        Value: 246
+        CostsHuman:
+          Price: 100000
+      - Index: 248
+        Value: 247
+        CostsHuman:
+          Price: 100000
+      - Index: 249
+        Value: 248
+        CostsHuman:
+          Price: 100000
+      - Index: 250
+        Value: 249
+        CostsHuman:
+          Price: 100000
+      - Index: 251
+        Value: 250
+        CostsHuman:
+          Price: 100000
+      - Index: 252
+        Value: 251
+        CostsHuman:
+          Price: 100000
+      - Index: 253
+        Value: 252
+        CostsHuman:
+          Price: 100000
+      - Index: 254
+        Value: 253
+        CostsHuman:
+          Price: 100000
+      - Index: 255
+        Value: 254
+        CostsHuman:
+          Price: 100000
+      - Index: 256
+        Value: 255
+        CostsHuman:
+          Price: 100000
+      - Index: 257
+        Value: 256
+        CostsHuman:
+          Price: 100000
+      - Index: 258
+        Value: 257
+        CostsHuman:
+          Price: 100000
+      - Index: 259
+        Value: 258
+        CostsHuman:
+          Price: 100000
+      - Index: 260
+        Value: 259
+        CostsHuman:
+          Price: 100000
+      - Index: 261
+        Value: 260
+        CostsHuman:
+          Price: 100000
+      - Index: 262
+        Value: 261
+        CostsHuman:
+          Price: 100000
+      - Index: 263
+        Value: 262
+        CostsHuman:
+          Price: 100000
+      - Index: 264
+        Value: 263
+        CostsHuman:
+          Price: 100000
+      - Index: 265
+        Value: 264
+        CostsHuman:
+          Price: 100000
+      - Index: 266
+        Value: 265
+        CostsHuman:
+          Price: 100000
+      - Index: 267
+        Value: 266
+        CostsHuman:
+          Price: 100000
+      - Index: 268
+        Value: 267
+        CostsHuman:
+          Price: 100000
+      - Index: 269
+        Value: 268
+        CostsHuman:
+          Price: 100000
+      - Index: 270
+        Value: 269
+        CostsHuman:
+          Price: 100000
+      - Index: 271
+        Value: 270
+        CostsHuman:
+          Price: 100000
+      - Index: 272
+        Value: 271
+        CostsHuman:
+          Price: 100000
+      - Index: 273
+        Value: 272
+        CostsHuman:
+          Price: 100000
+      - Index: 274
+        Value: 273
+        CostsHuman:
+          Price: 100000
+      - Index: 275
+        Value: 274
+        CostsHuman:
+          Price: 100000
+      - Index: 276
+        Value: 275
+        CostsHuman:
+          Price: 100000
+      - Index: 277
+        Value: 276
+        CostsHuman:
+          Price: 100000
+      - Index: 278
+        Value: 277
+        CostsHuman:
+          Price: 100000
+      - Index: 279
+        Value: 278
+        CostsHuman:
+          Price: 100000
+      - Index: 280
+        Value: 279
+        CostsHuman:
+          Price: 100000
+      - Index: 281
+        Value: 280
+        CostsHuman:
+          Price: 100000
+      - Index: 282
+        Value: 281
+        CostsHuman:
+          Price: 100000
+      - Index: 283
+        Value: 282
+        CostsHuman:
+          Price: 100000
+      - Index: 284
+        Value: 283
+        CostsHuman:
+          Price: 100000
+      - Index: 285
+        Value: 284
+        CostsHuman:
+          Price: 100000
+      - Index: 286
+        Value: 285
+        CostsHuman:
+          Price: 100000
+      - Index: 287
+        Value: 286
+        CostsHuman:
+          Price: 100000
+      - Index: 288
+        Value: 287
+        CostsHuman:
+          Price: 100000
+      - Index: 289
+        Value: 288
+        CostsHuman:
+          Price: 100000
+      - Index: 290
+        Value: 289
+        CostsHuman:
+          Price: 100000
+      - Index: 291
+        Value: 290
+        CostsHuman:
+          Price: 100000
+      - Index: 292
+        Value: 291
+        CostsHuman:
+          Price: 100000
+      - Index: 293
+        Value: 292
+        CostsHuman:
+          Price: 100000
+      - Index: 294
+        Value: 293
+        CostsHuman:
+          Price: 100000
+      - Index: 295
+        Value: 294
+        CostsHuman:
+          Price: 100000
+      - Index: 296
+        Value: 295
+        CostsHuman:
+          Price: 100000
+      - Index: 297
+        Value: 296
+        CostsHuman:
+          Price: 100000
+      - Index: 298
+        Value: 297
+        CostsHuman:
+          Price: 100000
+      - Index: 299
+        Value: 298
+        CostsHuman:
+          Price: 100000
+      - Index: 300
+        Value: 299
+        CostsHuman:
+          Price: 100000
+      - Index: 301
+        Value: 300
+        CostsHuman:
+          Price: 100000
+      - Index: 302
+        Value: 301
+        CostsHuman:
+          Price: 100000
+      - Index: 303
+        Value: 302
+        CostsHuman:
+          Price: 100000
+      - Index: 304
+        Value: 303
+        CostsHuman:
+          Price: 100000
+      - Index: 305
+        Value: 304
+        CostsHuman:
+          Price: 100000
+      - Index: 306
+        Value: 305
+        CostsHuman:
+          Price: 100000
+      - Index: 307
+        Value: 306
+        CostsHuman:
+          Price: 100000
+      - Index: 308
+        Value: 307
+        CostsHuman:
+          Price: 100000
+      - Index: 309
+        Value: 308
+        CostsHuman:
+          Price: 100000
+      - Index: 310
+        Value: 309
+        CostsHuman:
+          Price: 100000
+      - Index: 311
+        Value: 310
+        CostsHuman:
+          Price: 100000
+      - Index: 312
+        Value: 311
+        CostsHuman:
+          Price: 100000
+      - Index: 313
+        Value: 312
+        CostsHuman:
+          Price: 100000
+      - Index: 314
+        Value: 313
+        CostsHuman:
+          Price: 100000
+      - Index: 315
+        Value: 314
+        CostsHuman:
+          Price: 100000
+      - Index: 316
+        Value: 315
+        CostsHuman:
+          Price: 100000
+      - Index: 317
+        Value: 316
+        CostsHuman:
+          Price: 100000
+      - Index: 318
+        Value: 317
+        CostsHuman:
+          Price: 100000
+      - Index: 319
+        Value: 318
+        CostsHuman:
+          Price: 100000
+      - Index: 320
+        Value: 319
+        CostsHuman:
+          Price: 100000
+      - Index: 321
+        Value: 320
+        CostsHuman:
+          Price: 100000
+      - Index: 322
+        Value: 321
+        CostsHuman:
+          Price: 100000
+      - Index: 323
+        Value: 322
+        CostsHuman:
+          Price: 100000
+      - Index: 324
+        Value: 323
+        CostsHuman:
+          Price: 100000
+      - Index: 325
+        Value: 324
+        CostsHuman:
+          Price: 100000
+      - Index: 326
+        Value: 325
+        CostsHuman:
+          Price: 100000
+      - Index: 327
+        Value: 326
+        CostsHuman:
+          Price: 100000
+      - Index: 328
+        Value: 327
+        CostsHuman:
+          Price: 100000
+      - Index: 329
+        Value: 328
+        CostsHuman:
+          Price: 100000
+      - Index: 330
+        Value: 329
+        CostsHuman:
+          Price: 100000
+      - Index: 331
+        Value: 330
+        CostsHuman:
+          Price: 100000
+      - Index: 332
+        Value: 331
+        CostsHuman:
+          Price: 100000
+      - Index: 333
+        Value: 332
+        CostsHuman:
+          Price: 100000
+      - Index: 334
+        Value: 333
+        CostsHuman:
+          Price: 100000
+      - Index: 335
+        Value: 334
+        CostsHuman:
+          Price: 100000
+      - Index: 336
+        Value: 335
+        CostsHuman:
+          Price: 100000
+      - Index: 337
+        Value: 336
+        CostsHuman:
+          Price: 100000
+      - Index: 338
+        Value: 337
+        CostsHuman:
+          Price: 100000
+      - Index: 339
+        Value: 338
+        CostsHuman:
+          Price: 100000
+      - Index: 340
+        Value: 339
+        CostsHuman:
+          Price: 100000
+      - Index: 341
+        Value: 340
+        CostsHuman:
+          Price: 100000
+      - Index: 342
+        Value: 341
+        CostsHuman:
+          Price: 100000
+      - Index: 343
+        Value: 342
+        CostsHuman:
+          Price: 100000
+      - Index: 344
+        Value: 343
+        CostsHuman:
+          Price: 100000
+      - Index: 345
+        Value: 344
+        CostsHuman:
+          Price: 100000
+      - Index: 346
+        Value: 345
+        CostsHuman:
+          Price: 100000
+      - Index: 347
+        Value: 346
+        CostsHuman:
+          Price: 100000
+      - Index: 348
+        Value: 347
+        CostsHuman:
+          Price: 100000
+      - Index: 349
+        Value: 348
+        CostsHuman:
+          Price: 100000
+      - Index: 350
+        Value: 349
+        CostsHuman:
+          Price: 100000
+      - Index: 351
+        Value: 350
+        CostsHuman:
+          Price: 100000
+      - Index: 352
+        Value: 351
+        CostsHuman:
+          Price: 100000
+      - Index: 353
+        Value: 352
+        CostsHuman:
+          Price: 100000
+      - Index: 354
+        Value: 353
+        CostsHuman:
+          Price: 100000
+      - Index: 355
+        Value: 354
+        CostsHuman:
+          Price: 100000
+      - Index: 356
+        Value: 355
+        CostsHuman:
+          Price: 100000
+      - Index: 357
+        Value: 356
+        CostsHuman:
+          Price: 100000
+      - Index: 358
+        Value: 357
+        CostsHuman:
+          Price: 100000
+      - Index: 359
+        Value: 358
+        CostsHuman:
+          Price: 100000
+      - Index: 360
+        Value: 359
+        CostsHuman:
+          Price: 100000
+      - Index: 361
+        Value: 360
+        CostsHuman:
+          Price: 100000
+      - Index: 362
+        Value: 361
+        CostsHuman:
+          Price: 100000
+      - Index: 363
+        Value: 362
+        CostsHuman:
+          Price: 100000
+      - Index: 364
+        Value: 363
+        CostsHuman:
+          Price: 100000
+      - Index: 365
+        Value: 364
+        CostsHuman:
+          Price: 100000
+      - Index: 366
+        Value: 365
+        CostsHuman:
+          Price: 100000
+      - Index: 367
+        Value: 366
+        CostsHuman:
+          Price: 100000
+      - Index: 368
+        Value: 367
+        CostsHuman:
+          Price: 100000
+      - Index: 369
+        Value: 368
+        CostsHuman:
+          Price: 100000
+      - Index: 370
+        Value: 369
+        CostsHuman:
+          Price: 100000
+      - Index: 371
+        Value: 370
+        CostsHuman:
+          Price: 100000
+      - Index: 372
+        Value: 371
+        CostsHuman:
+          Price: 100000
+      - Index: 373
+        Value: 372
+        CostsHuman:
+          Price: 100000
+      - Index: 374
+        Value: 373
+        CostsHuman:
+          Price: 100000
+      - Index: 375
+        Value: 374
+        CostsHuman:
+          Price: 100000
+      - Index: 376
+        Value: 375
+        CostsHuman:
+          Price: 100000
+      - Index: 377
+        Value: 376
+        CostsHuman:
+          Price: 100000
+      - Index: 378
+        Value: 377
+        CostsHuman:
+          Price: 100000
+      - Index: 379
+        Value: 378
+        CostsHuman:
+          Price: 100000
+      - Index: 380
+        Value: 379
+        CostsHuman:
+          Price: 100000
+      - Index: 381
+        Value: 380
+        CostsHuman:
+          Price: 100000
+      - Index: 382
+        Value: 381
+        CostsHuman:
+          Price: 100000
+      - Index: 383
+        Value: 382
+        CostsHuman:
+          Price: 100000
+      - Index: 384
+        Value: 383
+        CostsHuman:
+          Price: 100000
+      - Index: 385
+        Value: 384
+        CostsHuman:
+          Price: 100000
+      - Index: 386
+        Value: 385
+        CostsHuman:
+          Price: 100000
+      - Index: 387
+        Value: 386
+        CostsHuman:
+          Price: 100000
+      - Index: 388
+        Value: 387
+        CostsHuman:
+          Price: 100000
+      - Index: 389
+        Value: 388
+        CostsHuman:
+          Price: 100000
+      - Index: 390
+        Value: 389
+        CostsHuman:
+          Price: 100000
+      - Index: 391
+        Value: 390
+        CostsHuman:
+          Price: 100000
+      - Index: 392
+        Value: 391
+        CostsHuman:
+          Price: 100000
+      - Index: 393
+        Value: 392
+        CostsHuman:
+          Price: 100000
+      - Index: 394
+        Value: 393
+        CostsHuman:
+          Price: 100000
+      - Index: 395
+        Value: 394
+        CostsHuman:
+          Price: 100000
+      - Index: 396
+        Value: 395
+        CostsHuman:
+          Price: 100000
+      - Index: 397
+        Value: 396
+        CostsHuman:
+          Price: 100000
+      - Index: 398
+        Value: 397
+        CostsHuman:
+          Price: 100000
+      - Index: 399
+        Value: 398
+        CostsHuman:
+          Price: 100000
+      - Index: 400
+        Value: 399
+        CostsHuman:
+          Price: 100000
+      - Index: 401
+        Value: 400
+        CostsHuman:
+          Price: 100000
+      - Index: 402
+        Value: 401
+        CostsHuman:
+          Price: 100000
+      - Index: 403
+        Value: 402
+        CostsHuman:
+          Price: 100000
+      - Index: 404
+        Value: 403
+        CostsHuman:
+          Price: 100000
+      - Index: 405
+        Value: 404
+        CostsHuman:
+          Price: 100000
+      - Index: 406
+        Value: 405
+        CostsHuman:
+          Price: 100000
+      - Index: 407
+        Value: 406
+        CostsHuman:
+          Price: 100000
+      - Index: 408
+        Value: 407
+        CostsHuman:
+          Price: 100000
+      - Index: 409
+        Value: 408
+        CostsHuman:
+          Price: 100000
+      - Index: 410
+        Value: 409
+        CostsHuman:
+          Price: 100000
+      - Index: 411
+        Value: 410
+        CostsHuman:
+          Price: 100000
+      - Index: 412
+        Value: 411
+        CostsHuman:
+          Price: 100000
+      - Index: 413
+        Value: 412
+        CostsHuman:
+          Price: 100000
+      - Index: 414
+        Value: 413
+        CostsHuman:
+          Price: 100000
+      - Index: 415
+        Value: 414
+        CostsHuman:
+          Price: 100000
+      - Index: 416
+        Value: 415
+        CostsHuman:
+          Price: 100000
+      - Index: 417
+        Value: 416
+        CostsHuman:
+          Price: 100000
+      - Index: 418
+        Value: 417
+        CostsHuman:
+          Price: 100000
+      - Index: 419
+        Value: 418
+        CostsHuman:
+          Price: 100000
+      - Index: 420
+        Value: 419
+        CostsHuman:
+          Price: 100000
+      - Index: 421
+        Value: 420
+        CostsHuman:
+          Price: 100000
+      - Index: 422
+        Value: 421
+        CostsHuman:
+          Price: 100000
+      - Index: 423
+        Value: 422
+        CostsHuman:
+          Price: 100000
+      - Index: 424
+        Value: 423
+        CostsHuman:
+          Price: 100000
+      - Index: 425
+        Value: 424
+        CostsHuman:
+          Price: 100000
+      - Index: 426
+        Value: 425
+        CostsHuman:
+          Price: 100000
+      - Index: 427
+        Value: 426
+        CostsHuman:
+          Price: 100000
+      - Index: 428
+        Value: 427
+        CostsHuman:
+          Price: 100000
+      - Index: 429
+        Value: 428
+        CostsHuman:
+          Price: 100000
+      - Index: 430
+        Value: 429
+        CostsHuman:
+          Price: 100000
+      - Index: 431
+        Value: 430
+        CostsHuman:
+          Price: 100000
+      - Index: 432
+        Value: 431
+        CostsHuman:
+          Price: 100000
+      - Index: 433
+        Value: 432
+        CostsHuman:
+          Price: 100000
+      - Index: 434
+        Value: 433
+        CostsHuman:
+          Price: 100000
+      - Index: 435
+        Value: 434
+        CostsHuman:
+          Price: 100000
+      - Index: 436
+        Value: 435
+        CostsHuman:
+          Price: 100000
+      - Index: 437
+        Value: 436
+        CostsHuman:
+          Price: 100000
+      - Index: 438
+        Value: 437
+        CostsHuman:
+          Price: 100000
+      - Index: 439
+        Value: 438
+        CostsHuman:
+          Price: 100000
+      - Index: 440
+        Value: 439
+        CostsHuman:
+          Price: 100000
+      - Index: 441
+        Value: 440
+        CostsHuman:
+          Price: 100000
+      - Index: 442
+        Value: 441
+        CostsHuman:
+          Price: 100000
+      - Index: 443
+        Value: 442
+        CostsHuman:
+          Price: 100000
+      - Index: 444
+        Value: 443
+        CostsHuman:
+          Price: 100000
+      - Index: 445
+        Value: 444
+        CostsHuman:
+          Price: 100000
+      - Index: 446
+        Value: 445
+        CostsHuman:
+          Price: 100000
+      - Index: 447
+        Value: 446
+        CostsHuman:
+          Price: 100000
+      - Index: 448
+        Value: 447
+        CostsHuman:
+          Price: 100000
+      - Index: 449
+        Value: 448
+        CostsHuman:
+          Price: 100000
+      - Index: 450
+        Value: 449
+        CostsHuman:
+          Price: 100000
+      - Index: 451
+        Value: 450
+        CostsHuman:
+          Price: 100000
+      - Index: 452
+        Value: 451
+        CostsHuman:
+          Price: 100000
+      - Index: 453
+        Value: 452
+        CostsHuman:
+          Price: 100000
+      - Index: 454
+        Value: 453
+        CostsHuman:
+          Price: 100000
+      - Index: 455
+        Value: 454
+        CostsHuman:
+          Price: 100000
+      - Index: 456
+        Value: 455
+        CostsHuman:
+          Price: 100000
+      - Index: 457
+        Value: 456
+        CostsHuman:
+          Price: 100000
+      - Index: 458
+        Value: 457
+        CostsHuman:
+          Price: 100000
+      - Index: 459
+        Value: 458
+        CostsHuman:
+          Price: 100000
+      - Index: 460
+        Value: 459
+        CostsHuman:
+          Price: 100000
+      - Index: 461
+        Value: 460
+        CostsHuman:
+          Price: 100000
+      - Index: 462
+        Value: 461
+        CostsHuman:
+          Price: 100000
+      - Index: 463
+        Value: 462
+        CostsHuman:
+          Price: 100000
+      - Index: 464
+        Value: 463
+        CostsHuman:
+          Price: 100000
+      - Index: 465
+        Value: 464
+        CostsHuman:
+          Price: 100000
+      - Index: 466
+        Value: 465
+        CostsHuman:
+          Price: 100000
+      - Index: 467
+        Value: 466
+        CostsHuman:
+          Price: 100000
+      - Index: 468
+        Value: 467
+        CostsHuman:
+          Price: 100000
+      - Index: 469
+        Value: 468
+        CostsHuman:
+          Price: 100000
+      - Index: 470
+        Value: 469
+        CostsHuman:
+          Price: 100000
+      - Index: 471
+        Value: 470
+        CostsHuman:
+          Price: 100000
+      - Index: 472
+        Value: 471
+        CostsHuman:
+          Price: 100000
+      - Index: 473
+        Value: 472
+        CostsHuman:
+          Price: 100000
+      - Index: 474
+        Value: 473
+        CostsHuman:
+          Price: 100000
+      - Index: 475
+        Value: 474
+        CostsHuman:
+          Price: 100000
+      - Index: 476
+        Value: 475
+        CostsHuman:
+          Price: 100000
+      - Index: 477
+        Value: 476
+        CostsHuman:
+          Price: 100000
+      - Index: 478
+        Value: 477
+        CostsHuman:
+          Price: 100000
+      - Index: 479
+        Value: 478
+        CostsHuman:
+          Price: 100000
+      - Index: 480
+        Value: 479
+        CostsHuman:
+          Price: 100000
+      - Index: 481
+        Value: 480
+        CostsHuman:
+          Price: 100000
+      - Index: 482
+        Value: 481
+        CostsHuman:
+          Price: 100000
+      - Index: 483
+        Value: 482
+        CostsHuman:
+          Price: 100000
+      - Index: 484
+        Value: 483
+        CostsHuman:
+          Price: 100000
+      - Index: 485
+        Value: 484
+        CostsHuman:
+          Price: 100000
+      - Index: 486
+        Value: 485
+        CostsHuman:
+          Price: 100000
+      - Index: 487
+        Value: 486
+        CostsHuman:
+          Price: 100000
+      - Index: 488
+        Value: 487
+        CostsHuman:
+          Price: 100000
+      - Index: 489
+        Value: 488
+        CostsHuman:
+          Price: 100000
+      - Index: 490
+        Value: 489
+        CostsHuman:
+          Price: 100000
+      - Index: 491
+        Value: 490
+        CostsHuman:
+          Price: 100000
+      - Index: 492
+        Value: 491
+        CostsHuman:
+          Price: 100000
+      - Index: 493
+        Value: 492
+        CostsHuman:
+          Price: 100000
+      - Index: 494
+        Value: 493
+        CostsHuman:
+          Price: 100000
+      - Index: 495
+        Value: 494
+        CostsHuman:
+          Price: 100000
+      - Index: 496
+        Value: 495
+        CostsHuman:
+          Price: 100000
+      - Index: 497
+        Value: 496
+        CostsHuman:
+          Price: 100000
+      - Index: 498
+        Value: 497
+        CostsHuman:
+          Price: 100000
+      - Index: 499
+        Value: 498
+        CostsHuman:
+          Price: 100000
+      - Index: 500
+        Value: 499
+        CostsHuman:
+          Price: 100000
+      - Index: 501
+        Value: 500
+        CostsHuman:
+          Price: 100000
+      - Index: 502
+        Value: 501
+        CostsHuman:
+          Price: 100000
+      - Index: 503
+        Value: 502
+        CostsHuman:
+          Price: 100000
+      - Index: 504
+        Value: 503
+        CostsHuman:
+          Price: 100000
+      - Index: 505
+        Value: 504
+        CostsHuman:
+          Price: 100000
+      - Index: 506
+        Value: 505
+        CostsHuman:
+          Price: 100000
+      - Index: 507
+        Value: 506
+        CostsHuman:
+          Price: 100000
+      - Index: 508
+        Value: 507
+        CostsHuman:
+          Price: 100000
+      - Index: 509
+        Value: 508
+        CostsHuman:
+          Price: 100000
+      - Index: 510
+        Value: 509
+        CostsHuman:
+          Price: 100000
+      - Index: 511
+        Value: 510
+        CostsHuman:
+          Price: 100000
+      - Index: 512
+        Value: 511
+        CostsHuman:
+          Price: 100000
+      - Index: 513
+        Value: 512
+        CostsHuman:
+          Price: 100000
+      - Index: 514
+        Value: 513
+        CostsHuman:
+          Price: 100000
+      - Index: 515
+        Value: 514
+        CostsHuman:
+          Price: 100000
+      - Index: 516
+        Value: 515
+        CostsHuman:
+          Price: 100000
+      - Index: 517
+        Value: 516
+        CostsHuman:
+          Price: 100000
+      - Index: 518
+        Value: 517
+        CostsHuman:
+          Price: 100000
+      - Index: 519
+        Value: 518
+        CostsHuman:
+          Price: 100000
+      - Index: 520
+        Value: 519
+        CostsHuman:
+          Price: 100000
+      - Index: 521
+        Value: 520
+        CostsHuman:
+          Price: 100000
+      - Index: 522
+        Value: 521
+        CostsHuman:
+          Price: 100000
+      - Index: 523
+        Value: 522
+        CostsHuman:
+          Price: 100000
+      - Index: 524
+        Value: 523
+        CostsHuman:
+          Price: 100000
+      - Index: 525
+        Value: 524
+        CostsHuman:
+          Price: 100000
+      - Index: 526
+        Value: 525
+        CostsHuman:
+          Price: 100000
+      - Index: 527
+        Value: 526
+        CostsHuman:
+          Price: 100000
+      - Index: 528
+        Value: 527
+        CostsHuman:
+          Price: 100000
+      - Index: 529
+        Value: 528
+        CostsHuman:
+          Price: 100000
+      - Index: 530
+        Value: 529
+        CostsHuman:
+          Price: 100000
+      - Index: 531
+        Value: 530
+        CostsHuman:
+          Price: 100000
+      - Index: 532
+        Value: 531
+        CostsHuman:
+          Price: 100000
+      - Index: 533
+        Value: 532
+        CostsHuman:
+          Price: 100000
+      - Index: 534
+        Value: 533
+        CostsHuman:
+          Price: 100000
+      - Index: 535
+        Value: 534
+        CostsHuman:
+          Price: 100000
+      - Index: 536
+        Value: 535
+        CostsHuman:
+          Price: 100000
+      - Index: 537
+        Value: 536
+        CostsHuman:
+          Price: 100000
+      - Index: 538
+        Value: 537
+        CostsHuman:
+          Price: 100000
+      - Index: 539
+        Value: 538
+        CostsHuman:
+          Price: 100000
+      - Index: 540
+        Value: 539
+        CostsHuman:
+          Price: 100000
+      - Index: 541
+        Value: 540
+        CostsHuman:
+          Price: 100000
+      - Index: 542
+        Value: 541
+        CostsHuman:
+          Price: 100000
+      - Index: 543
+        Value: 542
+        CostsHuman:
+          Price: 100000
+      - Index: 544
+        Value: 543
+        CostsHuman:
+          Price: 100000
+      - Index: 545
+        Value: 544
+        CostsHuman:
+          Price: 100000
+      - Index: 546
+        Value: 545
+        CostsHuman:
+          Price: 100000
+      - Index: 547
+        Value: 546
+        CostsHuman:
+          Price: 100000
+      - Index: 548
+        Value: 547
+        CostsHuman:
+          Price: 100000
+      - Index: 549
+        Value: 548
+        CostsHuman:
+          Price: 100000
+      - Index: 550
+        Value: 549
+        CostsHuman:
+          Price: 100000
+      - Index: 551
+        Value: 550
+        CostsHuman:
+          Price: 100000
+      - Index: 552
+        Value: 551
+        CostsHuman:
+          Price: 100000
+      - Index: 553
+        Value: 552
+        CostsHuman:
+          Price: 100000
+      - Index: 554
+        Value: 553
+        CostsHuman:
+          Price: 100000
+      - Index: 555
+        Value: 554
+        CostsHuman:
+          Price: 100000
+      - Index: 556
+        Value: 555
+        CostsHuman:
+          Price: 100000
+      - Index: 557
+        Value: 556
+        CostsHuman:
+          Price: 100000
+      - Index: 558
+        Value: 557
+        CostsHuman:
+          Price: 100000
+      - Index: 559
+        Value: 558
+        CostsHuman:
+          Price: 100000
+      - Index: 560
+        Value: 559
+        CostsHuman:
+          Price: 100000
+      - Index: 561
+        Value: 560
+        CostsHuman:
+          Price: 100000
+      - Index: 562
+        Value: 561
+        CostsHuman:
+          Price: 100000
+      - Index: 563
+        Value: 562
+        CostsHuman:
+          Price: 100000
+      - Index: 564
+        Value: 563
+        CostsHuman:
+          Price: 100000
+      - Index: 565
+        Value: 564
+        CostsHuman:
+          Price: 100000
+      - Index: 566
+        Value: 565
+        CostsHuman:
+          Price: 100000
+      - Index: 567
+        Value: 566
+        CostsHuman:
+          Price: 100000
+      - Index: 568
+        Value: 567
+        CostsHuman:
+          Price: 100000
+      - Index: 569
+        Value: 568
+        CostsHuman:
+          Price: 100000
+      - Index: 570
+        Value: 569
+        CostsHuman:
+          Price: 100000
+      - Index: 571
+        Value: 570
+        CostsHuman:
+          Price: 100000
+      - Index: 572
+        Value: 571
+        CostsHuman:
+          Price: 100000
+      - Index: 573
+        Value: 572
+        CostsHuman:
+          Price: 100000
+      - Index: 574
+        Value: 573
+        CostsHuman:
+          Price: 100000
+      - Index: 575
+        Value: 574
+        CostsHuman:
+          Price: 100000
+      - Index: 576
+        Value: 575
+        CostsHuman:
+          Price: 100000
+      - Index: 577
+        Value: 576
+        CostsHuman:
+          Price: 100000
+      - Index: 578
+        Value: 577
+        CostsHuman:
+          Price: 100000
+      - Index: 579
+        Value: 578
+        CostsHuman:
+          Price: 100000
+      - Index: 580
+        Value: 579
+        CostsHuman:
+          Price: 100000
+      - Index: 581
+        Value: 580
+        CostsHuman:
+          Price: 100000
+      - Index: 582
+        Value: 581
+        CostsHuman:
+          Price: 100000
+      - Index: 583
+        Value: 582
+        CostsHuman:
+          Price: 100000
+      - Index: 584
+        Value: 583
+        CostsHuman:
+          Price: 100000
+      - Index: 585
+        Value: 584
+        CostsHuman:
+          Price: 100000
+      - Index: 586
+        Value: 585
+        CostsHuman:
+          Price: 100000
+      - Index: 587
+        Value: 586
+        CostsHuman:
+          Price: 100000
+      - Index: 588
+        Value: 587
+        CostsHuman:
+          Price: 100000
+      - Index: 589
+        Value: 588
+        CostsHuman:
+          Price: 100000
+      - Index: 590
+        Value: 589
+        CostsHuman:
+          Price: 100000
+      - Index: 591
+        Value: 590
+        CostsHuman:
+          Price: 100000
+      - Index: 592
+        Value: 591
+        CostsHuman:
+          Price: 100000
+      - Index: 593
+        Value: 592
+        CostsHuman:
+          Price: 100000
+      - Index: 594
+        Value: 593
+        CostsHuman:
+          Price: 100000
+      - Index: 595
+        Value: 594
+        CostsHuman:
+          Price: 100000
+      - Index: 596
+        Value: 595
+        CostsHuman:
+          Price: 100000
+      - Index: 597
+        Value: 596
+        CostsHuman:
+          Price: 100000
+      - Index: 598
+        Value: 597
+        CostsHuman:
+          Price: 100000
+      - Index: 599
+        Value: 598
+        CostsHuman:
+          Price: 100000
+      - Index: 600
+        Value: 599
+        CostsHuman:
+          Price: 100000
+      - Index: 601
+        Value: 600
+        CostsHuman:
+          Price: 100000
+      - Index: 602
+        Value: 601
+        CostsHuman:
+          Price: 100000
+      - Index: 603
+        Value: 602
+        CostsHuman:
+          Price: 100000
+      - Index: 604
+        Value: 603
+        CostsHuman:
+          Price: 100000
+      - Index: 605
+        Value: 604
+        CostsHuman:
+          Price: 100000
+      - Index: 606
+        Value: 605
+        CostsHuman:
+          Price: 100000
+      - Index: 607
+        Value: 606
+        CostsHuman:
+          Price: 100000
+      - Index: 608
+        Value: 607
+        CostsHuman:
+          Price: 100000
+      - Index: 609
+        Value: 608
+        CostsHuman:
+          Price: 100000
+      - Index: 610
+        Value: 609
+        CostsHuman:
+          Price: 100000
+      - Index: 611
+        Value: 610
+        CostsHuman:
+          Price: 100000
+      - Index: 612
+        Value: 611
+        CostsHuman:
+          Price: 100000
+      - Index: 613
+        Value: 612
+        CostsHuman:
+          Price: 100000
+      - Index: 614
+        Value: 613
+        CostsHuman:
+          Price: 100000
+      - Index: 615
+        Value: 614
+        CostsHuman:
+          Price: 100000
+      - Index: 616
+        Value: 615
+        CostsHuman:
+          Price: 100000
+      - Index: 617
+        Value: 616
+        CostsHuman:
+          Price: 100000
+      - Index: 618
+        Value: 617
+        CostsHuman:
+          Price: 100000
+      - Index: 619
+        Value: 618
+        CostsHuman:
+          Price: 100000
+      - Index: 620
+        Value: 619
+        CostsHuman:
+          Price: 100000
+      - Index: 621
+        Value: 620
+        CostsHuman:
+          Price: 100000
+      - Index: 622
+        Value: 621
+        CostsHuman:
+          Price: 100000
+      - Index: 623
+        Value: 622
+        CostsHuman:
+          Price: 100000
+      - Index: 624
+        Value: 623
+        CostsHuman:
+          Price: 100000
+      - Index: 625
+        Value: 624
+        CostsHuman:
+          Price: 100000
+      - Index: 626
+        Value: 625
+        CostsHuman:
+          Price: 100000
+      - Index: 627
+        Value: 626
+        CostsHuman:
+          Price: 100000
+      - Index: 628
+        Value: 627
+        CostsHuman:
+          Price: 100000
+      - Index: 629
+        Value: 628
+        CostsHuman:
+          Price: 100000
+      - Index: 630
+        Value: 629
+        CostsHuman:
+          Price: 100000
+      - Index: 631
+        Value: 630
+        CostsHuman:
+          Price: 100000
+      - Index: 632
+        Value: 631
+        CostsHuman:
+          Price: 100000
+      - Index: 633
+        Value: 632
+        CostsHuman:
+          Price: 100000
+      - Index: 634
+        Value: 633
+        CostsHuman:
+          Price: 100000
+      - Index: 635
+        Value: 634
+        CostsHuman:
+          Price: 100000
+      - Index: 636
+        Value: 635
+        CostsHuman:
+          Price: 100000
+      - Index: 637
+        Value: 636
+        CostsHuman:
+          Price: 100000
+      - Index: 638
+        Value: 637
+        CostsHuman:
+          Price: 100000
+      - Index: 639
+        Value: 638
+        CostsHuman:
+          Price: 100000
+      - Index: 640
+        Value: 639
+        CostsHuman:
+          Price: 100000
+      - Index: 641
+        Value: 640
+        CostsHuman:
+          Price: 100000
+      - Index: 642
+        Value: 641
+        CostsHuman:
+          Price: 100000
+      - Index: 643
+        Value: 642
+        CostsHuman:
+          Price: 100000
+      - Index: 644
+        Value: 643
+        CostsHuman:
+          Price: 100000
+      - Index: 645
+        Value: 644
+        CostsHuman:
+          Price: 100000
+      - Index: 646
+        Value: 645
+        CostsHuman:
+          Price: 100000
+      - Index: 647
+        Value: 646
+        CostsHuman:
+          Price: 100000
+      - Index: 648
+        Value: 647
+        CostsHuman:
+          Price: 100000
+      - Index: 649
+        Value: 648
+        CostsHuman:
+          Price: 100000
+      - Index: 650
+        Value: 649
+        CostsHuman:
+          Price: 100000
+      - Index: 651
+        Value: 650
+        CostsHuman:
+          Price: 100000
+      - Index: 652
+        Value: 651
+        CostsHuman:
+          Price: 100000
+      - Index: 653
+        Value: 652
+        CostsHuman:
+          Price: 100000
+      - Index: 654
+        Value: 653
+        CostsHuman:
+          Price: 100000
+      - Index: 655
+        Value: 654
+        CostsHuman:
+          Price: 100000
+      - Index: 656
+        Value: 655
+        CostsHuman:
+          Price: 100000
+      - Index: 657
+        Value: 656
+        CostsHuman:
+          Price: 100000
+      - Index: 658
+        Value: 657
+        CostsHuman:
+          Price: 100000
+      - Index: 659
+        Value: 658
+        CostsHuman:
+          Price: 100000
+      - Index: 660
+        Value: 659
+        CostsHuman:
+          Price: 100000
+      - Index: 661
+        Value: 660
+        CostsHuman:
+          Price: 100000
+      - Index: 662
+        Value: 661
+        CostsHuman:
+          Price: 100000
+      - Index: 663
+        Value: 662
+        CostsHuman:
+          Price: 100000
+      - Index: 664
+        Value: 663
+        CostsHuman:
+          Price: 100000
+      - Index: 665
+        Value: 664
+        CostsHuman:
+          Price: 100000
+      - Index: 666
+        Value: 665
+        CostsHuman:
+          Price: 100000
+      - Index: 667
+        Value: 666
+        CostsHuman:
+          Price: 100000
+      - Index: 668
+        Value: 667
+        CostsHuman:
+          Price: 100000
+  - Look: Head_Top
+    Options:
+      - Index: 1
+        Value: Hat
+        CostsHuman:
+          Price: 1000
+        CostsDoram:
+          Price: 1000
+      - Index: 2
+        Value: Ribbon
+        CostsHuman:
+          Price: 800
+        CostsDoram:
+          Price: 800
+      - Index: 3
+        Value: Bandana
+        CostsHuman:
+          Price: 400
+        CostsDoram:
+          Price: 400
+  - Look: Head_Mid
+    Options:
+      - Index: 1
+        Value: One_Eyed_Glass
+        CostsHuman:
+          Price: 10000
+        CostsDoram:
+          Price: 10000
+      - Index: 2
+        Value: Sunglasses
+        CostsHuman:
+          Price: 5000
+        CostsDoram:
+          Price: 5000
+      - Index: 3
+        Value: Luxury_Sunglasses
+        CostsHuman:
+          Price: 24000
+        CostsDoram:
+          Price: 24000
+      - Index: 4
+        Value: Spinning_Eyes
+        CostsHuman:
+          Price: 20000
+        CostsDoram:
+          Price: 20000
+      - Index: 5
+        Value: Diver's_Goggles
+        CostsHuman:
+          Price: 3500
+        CostsDoram:
+          Price: 3500
+      - Index: 6
+        Value: Glasses
+        CostsHuman:
+          Price: 4000
+        CostsDoram:
+          Price: 4000
+      - Index: 7
+        Value: Eye_Bandage
+        CostsHuman:
+          Price: 1000
+        CostsDoram:
+          Price: 1000
+  - Look: Head_Bottom
+    Options:
+      - Index: 1
+        Value: Granpa_Beard
+        CostsHuman:
+          Price: 5000
+        CostsDoram:
+          Price: 5000
+  - Look: Body2
+    Options:
+      - Index: 1
+        Value: 4252
+        RequiredJob: 4252
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 2
+        Value: 4060
+        RequiredJob: 4252
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 3
+        Value: 4332
+        RequiredJob: 4252
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 4
+        Value: 4253
+        RequiredJob: 4253
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 5
+        Value: 4064
+        RequiredJob: 4253
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 6
+        Value: 4333
+        RequiredJob: 4253
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 7
+        Value: 4254
+        RequiredJob: 4254
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 8
+        Value: 4065
+        RequiredJob: 4254
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 9
+        Value: 4334
+        RequiredJob: 4254
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 10
+        Value: 4255
+        RequiredJob: 4255
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 11
+        Value: 4061
+        RequiredJob: 4255
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 12
+        Value: 4335
+        RequiredJob: 4255
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 13
+        Value: 4256
+        RequiredJob: 4256
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 14
+        Value: 4063
+        RequiredJob: 4256
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 15
+        Value: 4336
+        RequiredJob: 4256
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 16
+        Value: 4257
+        RequiredJob: 4257
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 17
+        Value: 4062
+        RequiredJob: 4257
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 18
+        Value: 4337
+        RequiredJob: 4257
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 19
+        Value: 4258
+        RequiredJob: 4258
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 20
+        Value: 4073
+        RequiredJob: 4258
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 21
+        Value: 4338
+        RequiredJob: 4258
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 22
+        Value: 4259
+        RequiredJob: 4259
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 23
+        Value: 4078
+        RequiredJob: 4259
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 24
+        Value: 4339
+        RequiredJob: 4259
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 25
+        Value: 4260
+        RequiredJob: 4260
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 26
+        Value: 4079
+        RequiredJob: 4260
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 27
+        Value: 4340
+        RequiredJob: 4260
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 28
+        Value: 4261
+        RequiredJob: 4261
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 29
+        Value: 4074
+        RequiredJob: 4261
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 30
+        Value: 4341
+        RequiredJob: 4261
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 31
+        Value: 4262
+        RequiredJob: 4262
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 32
+        Value: 4077
+        RequiredJob: 4262
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 33
+        Value: 4342
+        RequiredJob: 4262
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 34
+        Value: 4263
+        RequiredJob: 4263
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 35
+        Value: 4075
+        RequiredJob: 4263
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 36
+        Value: 4343
+        RequiredJob: 4263
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 37
+        Value: 4264
+        RequiredJob: 4264
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 38
+        Value: 4076
+        RequiredJob: 4264
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 39
+        Value: 4344
+        RequiredJob: 4264
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 40
+        Value: 4060
+        RequiredJob: 4060
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 41
+        Value: 4332
+        RequiredJob: 4060
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 42
+        Value: 4054
+        RequiredJob: 4054
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 43
+        Value: 4332
+        RequiredJob: 4054
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 44
+        Value: 4096
+        RequiredJob: 4096
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 45
+        Value: 4332
+        RequiredJob: 4096
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 46
+        Value: 4064
+        RequiredJob: 4064
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 47
+        Value: 4333
+        RequiredJob: 4064
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 48
+        Value: 4058
+        RequiredJob: 4058
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 49
+        Value: 4333
+        RequiredJob: 4058
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 50
+        Value: 4100
+        RequiredJob: 4100
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 51
+        Value: 4333
+        RequiredJob: 4100
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 52
+        Value: 4065
+        RequiredJob: 4065
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 53
+        Value: 4334
+        RequiredJob: 4065
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 54
+        Value: 4059
+        RequiredJob: 4059
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 55
+        Value: 4334
+        RequiredJob: 4059
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 56
+        Value: 4101
+        RequiredJob: 4101
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 57
+        Value: 4334
+        RequiredJob: 4101
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 58
+        Value: 4061
+        RequiredJob: 4061
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 59
+        Value: 4335
+        RequiredJob: 4061
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 60
+        Value: 4055
+        RequiredJob: 4055
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 61
+        Value: 4335
+        RequiredJob: 4055
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 62
+        Value: 4097
+        RequiredJob: 4097
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 63
+        Value: 4335
+        RequiredJob: 4097
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 64
+        Value: 4063
+        RequiredJob: 4063
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 65
+        Value: 4336
+        RequiredJob: 4063
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 66
+        Value: 4057
+        RequiredJob: 4057
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 67
+        Value: 4336
+        RequiredJob: 4057
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 68
+        Value: 4099
+        RequiredJob: 4099
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 69
+        Value: 4336
+        RequiredJob: 4099
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 70
+        Value: 4062
+        RequiredJob: 4062
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 71
+        Value: 4337
+        RequiredJob: 4062
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 72
+        Value: 4056
+        RequiredJob: 4056
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 73
+        Value: 4337
+        RequiredJob: 4056
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 74
+        Value: 4098
+        RequiredJob: 4098
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 75
+        Value: 4337
+        RequiredJob: 4098
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 76
+        Value: 4073
+        RequiredJob: 4073
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 77
+        Value: 4338
+        RequiredJob: 4073
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 78
+        Value: 4066
+        RequiredJob: 4066
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 79
+        Value: 4338
+        RequiredJob: 4066
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 80
+        Value: 4102
+        RequiredJob: 4102
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 81
+        Value: 4338
+        RequiredJob: 4102
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 82
+        Value: 4078
+        RequiredJob: 4078
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 83
+        Value: 4339
+        RequiredJob: 4078
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 84
+        Value: 4071
+        RequiredJob: 4071
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 85
+        Value: 4339
+        RequiredJob: 4071
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 86
+        Value: 4107
+        RequiredJob: 4107
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 87
+        Value: 4339
+        RequiredJob: 4107
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 88
+        Value: 4079
+        RequiredJob: 4079
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 89
+        Value: 4340
+        RequiredJob: 4079
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 90
+        Value: 4072
+        RequiredJob: 4072
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 91
+        Value: 4340
+        RequiredJob: 4072
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 92
+        Value: 4108
+        RequiredJob: 4108
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 93
+        Value: 4340
+        RequiredJob: 4108
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 94
+        Value: 4074
+        RequiredJob: 4074
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 95
+        Value: 4341
+        RequiredJob: 4074
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 96
+        Value: 4067
+        RequiredJob: 4067
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 97
+        Value: 4341
+        RequiredJob: 4067
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 98
+        Value: 4103
+        RequiredJob: 4103
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 99
+        Value: 4341
+        RequiredJob: 4103
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 100
+        Value: 4077
+        RequiredJob: 4077
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 101
+        Value: 4342
+        RequiredJob: 4077
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 102
+        Value: 4070
+        RequiredJob: 4070
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 103
+        Value: 4342
+        RequiredJob: 4070
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 104
+        Value: 4106
+        RequiredJob: 4106
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 105
+        Value: 4342
+        RequiredJob: 4106
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 106
+        Value: 4075
+        RequiredJob: 4075
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 107
+        Value: 4343
+        RequiredJob: 4075
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 108
+        Value: 4068
+        RequiredJob: 4068
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 109
+        Value: 4343
+        RequiredJob: 4068
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 110
+        Value: 4104
+        RequiredJob: 4104
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 111
+        Value: 4343
+        RequiredJob: 4104
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 112
+        Value: 4076
+        RequiredJob: 4076
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 113
+        Value: 4344
+        RequiredJob: 4076
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 114
+        Value: 4069
+        RequiredJob: 4069
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 115
+        Value: 4344
+        RequiredJob: 4069
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 116
+        Value: 4105
+        RequiredJob: 4105
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 117
+        Value: 4344
+        RequiredJob: 4105
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 118
+        Value: 4302
+        RequiredJob: 4302
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 119
+        Value: 4239
+        RequiredJob: 4302
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 120
+        Value: 4303
+        RequiredJob: 4303
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 121
+        Value: 4240
+        RequiredJob: 4303
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 122
+        Value: 4304
+        RequiredJob: 4304
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 123
+        Value: 4211
+        RequiredJob: 4304
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 124
+        Value: 4305
+        RequiredJob: 4305
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 125
+        Value: 4212
+        RequiredJob: 4305
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 126
+        Value: 4306
+        RequiredJob: 4306
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 127
+        Value: 4215
+        RequiredJob: 4306
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 128
+        Value: 4307
+        RequiredJob: 4307
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 129
+        Value: 4190
+        RequiredJob: 4307
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 130
+        Value: 4308
+        RequiredJob: 4308
+        CostsHuman:
+          Price: 0
+        CostsDoram:
+          Price: 0
+      - Index: 131
+        Value: 4218
+        RequiredJob: 4308
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 134
+        Value: 7
+        RequiredJob: 7
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 135
+        Value: 8
+        RequiredJob: 8
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 136
+        Value: 9
+        RequiredJob: 9
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 137
+        Value: 10
+        RequiredJob: 10
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 138
+        Value: 11
+        RequiredJob: 11
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 139
+        Value: 12
+        RequiredJob: 12
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 140
+        Value: 14
+        RequiredJob: 14
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 141
+        Value: 15
+        RequiredJob: 15
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 142
+        Value: 16
+        RequiredJob: 16
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 143
+        Value: 17
+        RequiredJob: 17
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 144
+        Value: 18
+        RequiredJob: 18
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 145
+        Value: 19
+        RequiredJob: 19
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+      - Index: 146
+        Value: 20
+        RequiredJob: 20
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+      - Index: 147
+        Value: 23
+        RequiredJob: 23
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 148
+        Value: 24
+        RequiredJob: 24
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 149
+        Value: 25
+        RequiredJob: 25
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 150
+        Value: 7
+        RequiredJob: 4008
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 151
+        Value: 4008
+        RequiredJob: 4008
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 152
+        Value: 8
+        RequiredJob: 4009
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 153
+        Value: 4009
+        RequiredJob: 4009
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 154
+        Value: 9
+        RequiredJob: 4010
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 155
+        Value: 4010
+        RequiredJob: 4010
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 156
+        Value: 10
+        RequiredJob: 4011
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 157
+        Value: 4011
+        RequiredJob: 4011
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 158
+        Value: 11
+        RequiredJob: 4012
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 159
+        Value: 4012
+        RequiredJob: 4012
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 160
+        Value: 12
+        RequiredJob: 4013
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 161
+        Value: 4013
+        RequiredJob: 4013
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 162
+        Value: 14
+        RequiredJob: 4015
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 163
+        Value: 4015
+        RequiredJob: 4015
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 164
+        Value: 15
+        RequiredJob: 4016
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 165
+        Value: 4016
+        RequiredJob: 4016
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 166
+        Value: 16
+        RequiredJob: 4017
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 167
+        Value: 4017
+        RequiredJob: 4017
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 168
+        Value: 17
+        RequiredJob: 4018
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 169
+        Value: 4018
+        RequiredJob: 4018
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 170
+        Value: 18
+        RequiredJob: 4019
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 171
+        Value: 4019
+        RequiredJob: 4019
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 172
+        Value: 19
+        RequiredJob: 4020
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 173
+        Value: 4020
+        RequiredJob: 4020
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+      - Index: 174
+        Value: 20
+        RequiredJob: 4021
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 175
+        Value: 4021
+        RequiredJob: 4021
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+      - Index: 176
+        Value: 4047
+        RequiredJob: 4047
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 177
+        Value: 4049
+        RequiredJob: 4049
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 178
+        Value: 7
+        RequiredJob: 4054
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 179
+        Value: 4008
+        RequiredJob: 4054
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 180
+        Value: 9
+        RequiredJob: 4055
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 181
+        Value: 4010
+        RequiredJob: 4055
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 182
+        Value: 11
+        RequiredJob: 4056
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 183
+        Value: 4012
+        RequiredJob: 4056
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 184
+        Value: 8
+        RequiredJob: 4057
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 185
+        Value: 4009
+        RequiredJob: 4057
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 186
+        Value: 10
+        RequiredJob: 4058
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 187
+        Value: 4011
+        RequiredJob: 4058
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 188
+        Value: 12
+        RequiredJob: 4059
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 189
+        Value: 4013
+        RequiredJob: 4059
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 190
+        Value: 7
+        RequiredJob: 4060
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 191
+        Value: 4008
+        RequiredJob: 4060
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 192
+        Value: 9
+        RequiredJob: 4061
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 193
+        Value: 4010
+        RequiredJob: 4061
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 194
+        Value: 11
+        RequiredJob: 4062
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 195
+        Value: 4012
+        RequiredJob: 4062
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 196
+        Value: 8
+        RequiredJob: 4063
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 197
+        Value: 4009
+        RequiredJob: 4063
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 198
+        Value: 10
+        RequiredJob: 4064
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 199
+        Value: 4011
+        RequiredJob: 4064
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 200
+        Value: 12
+        RequiredJob: 4065
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 201
+        Value: 4013
+        RequiredJob: 4065
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 202
+        Value: 14
+        RequiredJob: 4066
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 203
+        Value: 4015
+        RequiredJob: 4066
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 204
+        Value: 16
+        RequiredJob: 4067
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 205
+        Value: 4017
+        RequiredJob: 4067
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 206
+        Value: 19
+        RequiredJob: 4068
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 207
+        Value: 4020
+        RequiredJob: 4068
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 208
+        Value: 20
+        RequiredJob: 4069
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 209
+        Value: 4021
+        RequiredJob: 4069
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 210
+        Value: 15
+        RequiredJob: 4070
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 211
+        Value: 4016
+        RequiredJob: 4070
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 212
+        Value: 18
+        RequiredJob: 4071
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 213
+        Value: 4019
+        RequiredJob: 4071
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 214
+        Value: 17
+        RequiredJob: 4072
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 215
+        Value: 4018
+        RequiredJob: 4072
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 216
+        Value: 14
+        RequiredJob: 4073
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 217
+        Value: 4015
+        RequiredJob: 4073
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 218
+        Value: 16
+        RequiredJob: 4074
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 219
+        Value: 4017
+        RequiredJob: 4074
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 220
+        Value: 19
+        RequiredJob: 4075
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 221
+        Value: 4020
+        RequiredJob: 4075
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 222
+        Value: 20
+        RequiredJob: 4076
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 223
+        Value: 4021
+        RequiredJob: 4076
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 224
+        Value: 15
+        RequiredJob: 4077
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 225
+        Value: 4016
+        RequiredJob: 4077
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 226
+        Value: 18
+        RequiredJob: 4078
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 227
+        Value: 4019
+        RequiredJob: 4078
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 228
+        Value: 17
+        RequiredJob: 4079
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 229
+        Value: 4018
+        RequiredJob: 4079
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 230
+        Value: 23
+        RequiredJob: 4190
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 231
+        Value: 4190
+        RequiredJob: 4190
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 232
+        Value: 25
+        RequiredJob: 4211
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 233
+        Value: 4211
+        RequiredJob: 4211
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+      - Index: 234
+        Value: 25
+        RequiredJob: 4212
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 235
+        Value: 4212
+        RequiredJob: 4212
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+      - Index: 236
+        Value: 24
+        RequiredJob: 4215
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 237
+        Value: 4215
+        RequiredJob: 4215
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 238
+        Value: 4218
+        RequiredJob: 4218
+        LineageOnly: true
+        RequiredSex: 2
+        CostsDoram:
+          Price: 0
+      - Index: 239
+        Value: 4047
+        RequiredJob: 4239
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 240
+        Value: 4239
+        RequiredJob: 4239
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 241
+        Value: 4049
+        RequiredJob: 4240
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 242
+        Value: 4240
+        RequiredJob: 4240
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+      - Index: 243
+        Value: 7
+        RequiredJob: 4252
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 244
+        Value: 4008
+        RequiredJob: 4252
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 245
+        Value: 10
+        RequiredJob: 4253
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 246
+        Value: 4011
+        RequiredJob: 4253
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 247
+        Value: 12
+        RequiredJob: 4254
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 248
+        Value: 4013
+        RequiredJob: 4254
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 249
+        Value: 9
+        RequiredJob: 4255
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 250
+        Value: 4010
+        RequiredJob: 4255
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 251
+        Value: 8
+        RequiredJob: 4256
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 252
+        Value: 4009
+        RequiredJob: 4256
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 253
+        Value: 11
+        RequiredJob: 4257
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 254
+        Value: 4012
+        RequiredJob: 4257
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 255
+        Value: 14
+        RequiredJob: 4258
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 256
+        Value: 4015
+        RequiredJob: 4258
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 257
+        Value: 18
+        RequiredJob: 4259
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 258
+        Value: 4019
+        RequiredJob: 4259
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 259
+        Value: 17
+        RequiredJob: 4260
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 260
+        Value: 4018
+        RequiredJob: 4260
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 261
+        Value: 16
+        RequiredJob: 4261
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 262
+        Value: 4017
+        RequiredJob: 4261
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 263
+        Value: 15
+        RequiredJob: 4262
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 264
+        Value: 4016
+        RequiredJob: 4262
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 265
+        Value: 19
+        RequiredJob: 4263
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 266
+        Value: 4020
+        RequiredJob: 4263
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 267
+        Value: 20
+        RequiredJob: 4264
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 268
+        Value: 4021
+        RequiredJob: 4264
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 269
+        Value: 4047
+        RequiredJob: 4302
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 270
+        Value: 4049
+        RequiredJob: 4303
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 271
+        Value: 25
+        RequiredJob: 4304
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 272
+        Value: 25
+        RequiredJob: 4305
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 273
+        Value: 24
+        RequiredJob: 4306
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 274
+        Value: 23
+        RequiredJob: 4307
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 275
+        Value: 4252
+        RequiredJob: 7
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 276
+        Value: 4256
+        RequiredJob: 8
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 277
+        Value: 4255
+        RequiredJob: 9
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 278
+        Value: 4253
+        RequiredJob: 10
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 279
+        Value: 4257
+        RequiredJob: 11
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 280
+        Value: 4254
+        RequiredJob: 12
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 281
+        Value: 4258
+        RequiredJob: 14
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 282
+        Value: 4262
+        RequiredJob: 15
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 283
+        Value: 4261
+        RequiredJob: 16
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 284
+        Value: 4260
+        RequiredJob: 17
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 285
+        Value: 4259
+        RequiredJob: 18
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 286
+        Value: 4263
+        RequiredJob: 19
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 287
+        Value: 4264
+        RequiredJob: 20
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 288
+        Value: 4307
+        RequiredJob: 23
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 289
+        Value: 4306
+        RequiredJob: 24
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 290
+        Value: 4304
+        RequiredJob: 25
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 291
+        Value: 4305
+        RequiredJob: 25
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 292
+        Value: 4252
+        RequiredJob: 4008
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 293
+        Value: 4256
+        RequiredJob: 4009
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 294
+        Value: 4255
+        RequiredJob: 4010
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 295
+        Value: 4253
+        RequiredJob: 4011
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 296
+        Value: 4257
+        RequiredJob: 4012
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 297
+        Value: 4254
+        RequiredJob: 4013
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 298
+        Value: 4258
+        RequiredJob: 4015
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 299
+        Value: 4262
+        RequiredJob: 4016
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 300
+        Value: 4261
+        RequiredJob: 4017
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 301
+        Value: 4260
+        RequiredJob: 4018
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 302
+        Value: 4259
+        RequiredJob: 4019
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 303
+        Value: 4263
+        RequiredJob: 4020
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 304
+        Value: 4264
+        RequiredJob: 4021
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 305
+        Value: 4302
+        RequiredJob: 4047
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 306
+        Value: 4303
+        RequiredJob: 4049
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 307
+        Value: 4252
+        RequiredJob: 4054
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 308
+        Value: 4255
+        RequiredJob: 4055
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 309
+        Value: 4257
+        RequiredJob: 4056
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 310
+        Value: 4256
+        RequiredJob: 4057
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 311
+        Value: 4253
+        RequiredJob: 4058
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 312
+        Value: 4254
+        RequiredJob: 4059
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 313
+        Value: 4252
+        RequiredJob: 4060
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 314
+        Value: 4255
+        RequiredJob: 4061
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 315
+        Value: 4257
+        RequiredJob: 4062
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 316
+        Value: 4256
+        RequiredJob: 4063
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 317
+        Value: 4253
+        RequiredJob: 4064
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 318
+        Value: 4254
+        RequiredJob: 4065
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 319
+        Value: 4258
+        RequiredJob: 4066
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 320
+        Value: 4261
+        RequiredJob: 4067
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 321
+        Value: 4263
+        RequiredJob: 4068
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 322
+        Value: 4264
+        RequiredJob: 4069
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 323
+        Value: 4262
+        RequiredJob: 4070
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 324
+        Value: 4259
+        RequiredJob: 4071
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 325
+        Value: 4260
+        RequiredJob: 4072
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 326
+        Value: 4258
+        RequiredJob: 4073
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 327
+        Value: 4261
+        RequiredJob: 4074
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 328
+        Value: 4263
+        RequiredJob: 4075
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 329
+        Value: 4264
+        RequiredJob: 4076
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 330
+        Value: 4262
+        RequiredJob: 4077
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 331
+        Value: 4259
+        RequiredJob: 4078
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 332
+        Value: 4260
+        RequiredJob: 4079
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 333
+        Value: 4307
+        RequiredJob: 4190
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 334
+        Value: 4304
+        RequiredJob: 4211
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 335
+        Value: 4305
+        RequiredJob: 4212
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 336
+        Value: 4306
+        RequiredJob: 4215
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 337
+        Value: 4308
+        RequiredJob: 4218
+        LineageOnly: true
+        RequiredSex: 2
+        CostsDoram:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 338
+        Value: 4302
+        RequiredJob: 4239
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 339
+        Value: 4303
+        RequiredJob: 4240
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 340
+        Value: 4008
+        RequiredJob: 7
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 341
+        Value: 4060
+        RequiredJob: 7
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 342
+        Value: 4332
+        RequiredJob: 7
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 343
+        Value: 4009
+        RequiredJob: 8
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 344
+        Value: 4063
+        RequiredJob: 8
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 345
+        Value: 4336
+        RequiredJob: 8
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 346
+        Value: 4010
+        RequiredJob: 9
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 347
+        Value: 4061
+        RequiredJob: 9
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 348
+        Value: 4335
+        RequiredJob: 9
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 349
+        Value: 4011
+        RequiredJob: 10
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 350
+        Value: 4064
+        RequiredJob: 10
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 351
+        Value: 4333
+        RequiredJob: 10
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 352
+        Value: 4012
+        RequiredJob: 11
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 353
+        Value: 4062
+        RequiredJob: 11
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 354
+        Value: 4337
+        RequiredJob: 11
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 355
+        Value: 4013
+        RequiredJob: 12
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 356
+        Value: 4065
+        RequiredJob: 12
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 357
+        Value: 4334
+        RequiredJob: 12
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 358
+        Value: 4015
+        RequiredJob: 14
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 359
+        Value: 4073
+        RequiredJob: 14
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 360
+        Value: 4338
+        RequiredJob: 14
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 361
+        Value: 4016
+        RequiredJob: 15
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 362
+        Value: 4077
+        RequiredJob: 15
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 363
+        Value: 4342
+        RequiredJob: 15
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 364
+        Value: 4017
+        RequiredJob: 16
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 365
+        Value: 4074
+        RequiredJob: 16
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 366
+        Value: 4341
+        RequiredJob: 16
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 367
+        Value: 4018
+        RequiredJob: 17
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 368
+        Value: 4079
+        RequiredJob: 17
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 369
+        Value: 4340
+        RequiredJob: 17
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 370
+        Value: 4019
+        RequiredJob: 18
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 371
+        Value: 4078
+        RequiredJob: 18
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 372
+        Value: 4339
+        RequiredJob: 18
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 373
+        Value: 4020
+        RequiredJob: 19
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 374
+        Value: 4075
+        RequiredJob: 19
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 375
+        Value: 4343
+        RequiredJob: 19
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 376
+        Value: 4021
+        RequiredJob: 20
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 377
+        Value: 4076
+        RequiredJob: 20
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 378
+        Value: 4344
+        RequiredJob: 20
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 379
+        Value: 4190
+        RequiredJob: 23
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 380
+        Value: 4215
+        RequiredJob: 24
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 381
+        Value: 4211
+        RequiredJob: 25
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 382
+        Value: 4212
+        RequiredJob: 25
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 383
+        Value: 4060
+        RequiredJob: 4008
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 384
+        Value: 4332
+        RequiredJob: 4008
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 385
+        Value: 4063
+        RequiredJob: 4009
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 386
+        Value: 4336
+        RequiredJob: 4009
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 387
+        Value: 4061
+        RequiredJob: 4010
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 388
+        Value: 4335
+        RequiredJob: 4010
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 389
+        Value: 4064
+        RequiredJob: 4011
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 390
+        Value: 4333
+        RequiredJob: 4011
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 391
+        Value: 4062
+        RequiredJob: 4012
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 392
+        Value: 4337
+        RequiredJob: 4012
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 393
+        Value: 4065
+        RequiredJob: 4013
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 394
+        Value: 4334
+        RequiredJob: 4013
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 395
+        Value: 4073
+        RequiredJob: 4015
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 396
+        Value: 4338
+        RequiredJob: 4015
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 397
+        Value: 4077
+        RequiredJob: 4016
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 398
+        Value: 4342
+        RequiredJob: 4016
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 399
+        Value: 4074
+        RequiredJob: 4017
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 400
+        Value: 4341
+        RequiredJob: 4017
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 401
+        Value: 4079
+        RequiredJob: 4018
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 402
+        Value: 4340
+        RequiredJob: 4018
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 403
+        Value: 4078
+        RequiredJob: 4019
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 404
+        Value: 4339
+        RequiredJob: 4019
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 405
+        Value: 4075
+        RequiredJob: 4020
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 406
+        Value: 4343
+        RequiredJob: 4020
+        LineageOnly: true
+        RequiredSex: 1
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 407
+        Value: 4076
+        RequiredJob: 4021
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 408
+        Value: 4344
+        RequiredJob: 4021
+        LineageOnly: true
+        RequiredSex: 0
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 409
+        Value: 4239
+        RequiredJob: 4047
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket
+      - Index: 410
+        Value: 4240
+        RequiredJob: 4049
+        LineageOnly: true
+        RequiredSex: 2
+        CostsHuman:
+          Price: 0
+          RequiredItem: Costume_Ticket
+          RequiredItemBox: Costume_Ticket

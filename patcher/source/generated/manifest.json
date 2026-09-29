@@ -1,0 +1,117 @@
+{
+  "source_sha256": "9fd26fa04c46d97b9f83c0a8b03345605fe7dc2db8248e90e24eb0b0b2e39a79",
+  "output_sha256": "95fbd61d250d3d7481b271d7d1928b2a03e8ebc9fae68fdeb68f2f74496e5a65",
+  "section": ".stynum",
+  "patches": [
+    {
+      "offset": 4356950,
+      "before": "33f689b510ffffff",
+      "after": "e9a5ba1e04909090"
+    },
+    {
+      "offset": 4376406,
+      "before": "817d10ef010000",
+      "after": "e9a5741e049090"
+    },
+    {
+      "offset": 13819044,
+      "before": "309c8200",
+      "after": "0048a104"
+    },
+    {
+      "offset": 13817740,
+      "before": "109d8200",
+      "after": "004aa104"
+    },
+    {
+      "offset": 4351811,
+      "before": "5a",
+      "after": "20"
+    },
+    {
+      "offset": 4351964,
+      "before": "5a",
+      "after": "20"
+    },
+    {
+      "offset": 4352120,
+      "before": "75",
+      "after": "36"
+    },
+    {
+      "offset": 4352273,
+      "before": "75",
+      "after": "36"
+    },
+    {
+      "offset": 4376799,
+      "before": "eb37",
+      "after": "eb4b"
+    },
+    {
+      "offset": 4376847,
+      "before": "eb07",
+      "after": "eb51"
+    },
+    {
+      "offset": 4343472,
+      "before": "e915010000",
+      "after": "e94bfd1e04"
+    },
+    {
+      "offset": 4361401,
+      "before": "6888000000",
+      "after": "e982b71e04"
+    },
+    {
+      "offset": 4379803,
+      "before": "81fe47020000",
+      "after": "e9c06f1e0490"
+    },
+    {
+      "offset": 4347273,
+      "before": "e8e22c5e00",
+      "after": "e872e91e04"
+    },
+    {
+      "offset": 4365059,
+      "before": "e868e75d00",
+      "after": "e8f8a31e04"
+    },
+    {
+      "offset": 4365995,
+      "before": "e8c0e35d00",
+      "after": "e850a01e04"
+    },
+    {
+      "offset": 4366835,
+      "before": "e878e05d00",
+      "after": "e8089d1e04"
+    },
+    {
+      "offset": 1328,
+      "before": "00000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "after": "2e7374796e756d00001000000040610400100000009eff00000000000000000000000000200000e0"
+    },
+    {
+      "offset": 366,
+      "before": "1200",
+      "after": "1300"
+    },
+    {
+      "offset": 440,
+      "before": "00406104",
+      "after": "00506104"
+    },
+    {
+      "offset": 388,
+      "before": "00020000",
+      "after": "00120000"
+    },
+    {
+      "offset": 448,
+      "before": "00000000",
+      "after": "00000000"
+    }
+  ]
+}

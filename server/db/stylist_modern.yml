@@ -1,0 +1,7 @@
+Header:
+  Type: STYLIST_DB
+  Version: 2
+Footer:
+  Imports:
+    - Path: db/re/stylist_modern.yml
+    - Path: db/import/stylist_modern.yml

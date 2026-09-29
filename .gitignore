@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+generated/
+!patcher/source/generated/
+!patcher/source/generated/**
+*.bak
+*.pre-stylist.bak

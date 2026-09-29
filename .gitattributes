@@ -1,0 +1,7 @@
+*.diff -text
+*.bin binary
+*.exe binary
+*.dll binary
+*.zip binary
+# Preserve release checksums when checking out on Windows or Unix.
+* -text

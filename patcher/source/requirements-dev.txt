@@ -1,0 +1,4 @@
+pefile==2024.8.26
+keystone-engine==0.9.2
+unicorn==2.1.4
+Pillow==12.3.0

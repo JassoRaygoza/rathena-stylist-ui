@@ -1,0 +1,63 @@
+{
+  "repository": "rathena/rathena",
+  "commit": "e985006171d2eb320ee512a653f4c83aea3d81b6",
+  "modified_files": [
+    "conf/battle/feature.conf",
+    "conf/battle_athena.conf",
+    "doc/script_commands.txt",
+    "npc/re/merchants/Extended_Stylist.txt",
+    "npc/re/merchants/cashmall.txt",
+    "npc/scripts_custom.conf",
+    "src/char/Makefile.in",
+    "src/char/char.cpp",
+    "src/char/char_logif.cpp",
+    "src/char/char_mapif.cpp",
+    "src/char/int_mail.cpp",
+    "src/char/int_mail.hpp",
+    "src/common/sql.cpp",
+    "src/common/sql.hpp",
+    "src/map/atcommand.cpp",
+    "src/map/battle.cpp",
+    "src/map/battle.hpp",
+    "src/map/chrif.cpp",
+    "src/map/chrif.hpp",
+    "src/map/clif.cpp",
+    "src/map/clif.hpp",
+    "src/map/clif_packetdb.hpp",
+    "src/map/map-server-generator.vcxproj",
+    "src/map/map-server.vcxproj",
+    "src/map/npc.cpp",
+    "src/map/npc.hpp",
+    "src/map/packets_struct.hpp",
+    "src/map/pc.cpp",
+    "src/map/pc.hpp",
+    "src/map/script.cpp",
+    "src/map/status.cpp"
+  ],
+  "new_files": [
+    "src/map/stylist.cpp",
+    "src/map/stylist.hpp",
+    "conf/battle/stylist.conf",
+    "db/stylist_modern.yml",
+    "db/re/stylist_modern.yml",
+    "db/import-tmpl/stylist_modern.yml",
+    "npc/custom/stylist_modern.txt",
+    "sql-files/upgrades/stylist_accessories.sql"
+  ],
+  "package_overrides": {
+    "stylist_min_group": 0,
+    "stylist_packet_debug": "off",
+    "stylist_class_lineage": "on",
+    "modern_npc_enabled": true,
+    "appearance_limits_in": "conf/battle/stylist.conf"
+  },
+  "excluded_local_changes": [
+    ".gitignore",
+    "3rdparty/libconfig/libconfig.vcxproj",
+    "conf/battle/client.conf",
+    "conf/char_athena.conf",
+    "conf/inter_athena.conf",
+    "conf/login_athena.conf",
+    "src/custom/defines_pre.hpp"
+  ]
+}

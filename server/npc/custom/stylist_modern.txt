@@ -1,0 +1,44 @@
+//===== rAthena Script =======================================
+//= Modern Stylist UI entrance (English)
+//===== Description: =========================================
+//= Native UI only: prices, catalogue and purchases stay in the server.
+//= Requires this project's modern Stylist integration (PACKETVER >= 20231220).
+//= Enable through npc/scripts_custom.conf. Do not also enable custom/stylist.txt:
+//= both NPCs use the same Prontera location.
+//============================================================
+
+prontera,170,180,1	script	Stylist#stylist_modern	4_M_BARBER,{
+	while (1) {
+		mes "[Stylist]";
+		if (!getbattleflag("feature.stylist")) {
+			mes "The styling service is currently unavailable.";
+			close;
+		}
+		if (getgmlevel() < getbattleflag("stylist_min_group")) {
+			mes "This service is not yet available for your character.";
+			close;
+		}
+		mes "Choose your appearance in the styling window.";
+		if (!getbattleflag("stylist_accessory_mail"))
+			mes "Accessory purchases are currently unavailable.";
+		next;
+		switch (select("Open stylist:Service information:Leave")) {
+		case 1:
+			close2;
+			if (!openstylist())
+				dispbottom "Unable to open the stylist right now. Close other windows and try again in a moment.";
+			end;
+		case 2:
+			mes "[Stylist]";
+			mes "Review the cost of each selection in the window before confirming.";
+			mes "Depending on your selections, payment may require zeny or coupons.";
+			mes "Outfits change your appearance while keeping your character's class.";
+			if (getbattleflag("stylist_accessory_mail"))
+				mes "Purchased accessories are delivered by RODEX mail.";
+			next;
+			break;
+		case 3:
+			close;
+		}
+	}
+}
